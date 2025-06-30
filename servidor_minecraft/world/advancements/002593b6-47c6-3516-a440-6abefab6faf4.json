@@ -1871,7 +1871,8 @@
       "potato": "2025-06-25 23:33:35 +0000",
       "mutton": "2025-06-26 03:12:54 +0000",
       "bread": "2025-06-25 23:16:35 +0000",
-      "golden_apple": "2025-06-26 13:19:21 +0000"
+      "golden_apple": "2025-06-26 13:19:21 +0000",
+      "carrot": "2025-06-30 15:53:53 +0000"
     },
     "done": false
   },
@@ -7934,6 +7935,24 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-06-29 15:15:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-30 15:53:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-30 15:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-30 15:53:44 +0000"
     },
     "done": true
   },

@@ -7442,9 +7442,219 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/warped_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-06-30 16:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-30 16:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-30 16:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-30 16:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-30 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-30 16:10:51 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2025-06-30 15:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-30 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-30 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-06-30 16:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-30 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-30 16:10:51 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-30 16:10:51 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/warped_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-30 15:33:34 +0000"
     },
     "done": true
   },
