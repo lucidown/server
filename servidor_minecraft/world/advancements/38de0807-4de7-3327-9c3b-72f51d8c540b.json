@@ -6635,7 +6635,8 @@
     "criteria": {
       "cataclysm:maledictus": "2025-06-28 15:49:42 +0000",
       "cataclysm:netherite_monstrosity": "2025-06-28 12:33:13 +0000",
-      "cataclysm:the_harbinger": "2025-06-28 22:18:17 +0000"
+      "cataclysm:the_harbinger": "2025-06-28 22:18:17 +0000",
+      "cataclysm:ignis": "2025-06-30 16:44:54 +0000"
     },
     "done": false
   },
@@ -7437,6 +7438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 16:49:43 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/fletched_sticks_conditional_fletching": {
     "criteria": {
       "has_item": "2025-06-30 15:06:36 +0000"
@@ -7497,6 +7504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 16:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-06-30 15:33:29 +0000"
@@ -7527,9 +7540,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:49:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-06-30 16:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:49:51 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-06-30 16:44:54 +0000"
     },
     "done": true
   },
@@ -7548,6 +7579,18 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-06-30 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 16:49:43 +0000"
     },
     "done": true
   },
@@ -7575,15 +7618,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 16:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-06-30 15:33:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:49:51 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/warped_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:49:51 +0000"
     },
     "done": true
   },
@@ -7611,6 +7672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:49:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-06-30 15:33:29 +0000"
@@ -7623,6 +7690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 16:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2025-06-30 15:33:34 +0000"
@@ -7632,6 +7705,12 @@
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:49:51 +0000"
     },
     "done": true
   },
@@ -7659,9 +7738,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 16:49:43 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/warped_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-06-30 16:47:09 +0000"
     },
     "done": true
   },
@@ -7692,6 +7789,12 @@
   "expanded_combat:recipes/combat/warped_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:49:51 +0000"
     },
     "done": true
   },

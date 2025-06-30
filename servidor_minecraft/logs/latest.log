@@ -775,3 +775,5 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [30Jun2025 16:39:00.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [30Jun2025 16:39:08.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [30Jun2025 16:44:54.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has completed the challenge [The Extinguished Fire]
+[30Jun2025 16:47:09.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [The Imperfect thing]
+[30Jun2025 16:48:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Enchanter]

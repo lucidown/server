@@ -8659,6 +8659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:51:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2025-06-30 15:57:32 +0000"
@@ -8668,6 +8674,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-30 15:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:51:43 +0000"
     },
     "done": true
   },
@@ -8683,15 +8701,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:51:43 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/white_sandstone": {
     "criteria": {
       "has_white_sand": "2025-06-30 14:57:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:51:43 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/white_stained_glass_from_white_sand": {
     "criteria": {
       "has_white_sand": "2025-06-30 14:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:51:43 +0000"
     },
     "done": true
   },
@@ -8710,6 +8758,12 @@
   "minecraft:husbandry/obtain_sniffer_egg": {
     "criteria": {
       "obtain_sniffer_egg": "2025-06-30 15:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-30 16:51:43 +0000"
     },
     "done": true
   },
