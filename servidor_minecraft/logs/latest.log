@@ -830,3 +830,9 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [30Jun2025 17:55:02.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -11.36531025406191,4.19588836617794,11.52434942944501
 [30Jun2025 17:59:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Creative Mode]
 [30Jun2025 18:01:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]
+[30Jun2025 18:10:20.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=52, z=51} BlockPos{x=-84, y=49, z=49}
+[30Jun2025 18:10:20.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=52, z=51} BlockPos{x=-84, y=49, z=49}
+[30Jun2025 18:10:20.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=52, z=51} BlockPos{x=-84, y=49, z=49}
+[30Jun2025 18:10:20.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=52, z=51} BlockPos{x=-84, y=49, z=49}
+[30Jun2025 18:10:20.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=52, z=51} BlockPos{x=-84, y=49, z=49}
+[30Jun2025 18:13:10.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! 9.901387900873615,-0.8800391385729398,2.709253028928572
