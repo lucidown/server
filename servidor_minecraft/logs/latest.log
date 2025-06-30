@@ -804,3 +804,29 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [30Jun2025 17:44:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems left the game
 [30Jun2025 17:44:07.161] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
 [30Jun2025 17:44:07.161] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client estrems
+[30Jun2025 17:46:06.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: estrems[/127.248.192.144:55241] logged in with entity id 148094 at (-28.91399969445561, 126.0, -271.8224327488872)
+[30Jun2025 17:46:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems joined the game
+[30Jun2025 17:46:06.822] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player estrems just logged in with id 002593b6-47c6-3516-a440-6abefab6faf4
+[30Jun2025 17:46:06.828] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[30Jun2025 17:46:06.902] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
+[30Jun2025 17:46:06.926] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of estrems (18)
+[30Jun2025 17:46:06.927] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
+[30Jun2025 17:46:25.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems lost connection: Disconnected
+[30Jun2025 17:46:25.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems left the game
+[30Jun2025 17:46:25.504] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[30Jun2025 17:46:25.505] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client estrems
+[30Jun2025 17:47:26.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: estrems[/127.248.192.144:55069] logged in with entity id 148449 at (-32.393109077780245, 126.0, -274.17563818942426)
+[30Jun2025 17:47:26.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems joined the game
+[30Jun2025 17:47:26.889] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player estrems just logged in with id 002593b6-47c6-3516-a440-6abefab6faf4
+[30Jun2025 17:47:26.891] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[30Jun2025 17:47:26.940] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
+[30Jun2025 17:47:27.983] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of estrems (18)
+[30Jun2025 17:47:27.983] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
+[30Jun2025 17:52:12.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jun2025 17:54:39.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! 10.837852800825068,1.1135207591778027,-0.39187906100977443
+[30Jun2025 17:55:02.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -7.789090517241277,2.805494279285199,7.953293613491297
+[30Jun2025 17:55:02.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -9.038960535862117,3.3667074692199606,9.201830033634508
+[30Jun2025 17:55:02.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -10.228871249724378,3.828864625828146,10.390004933989161
+[30Jun2025 17:55:02.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -11.36531025406191,4.19588836617794,11.52434942944501
+[30Jun2025 17:59:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Creative Mode]
+[30Jun2025 18:01:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]

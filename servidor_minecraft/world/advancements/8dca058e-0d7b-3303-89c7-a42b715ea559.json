@@ -8750,6 +8750,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-06-30 17:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-06-30 17:41:21 +0000"
@@ -8831,6 +8837,12 @@
   "cataclysm:kill_revenant": {
     "criteria": {
       "endergolem": "2025-06-30 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-06-30 17:43:11 +0000"
     },
     "done": true
   },
