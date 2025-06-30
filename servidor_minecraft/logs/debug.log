@@ -7724,3 +7724,13 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [30Jun2025 17:27:43.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]
 [30Jun2025 17:31:59.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jun2025 17:31:59.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 17:36:59.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 17:36:59.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 17:41:20.896] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jun2025 17:41:59.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 17:41:59.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 17:44:07.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems lost connection: Disconnected
+[30Jun2025 17:44:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems left the game
+[30Jun2025 17:44:07.161] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[30Jun2025 17:44:07.161] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of estrems
+[30Jun2025 17:44:07.161] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client estrems
