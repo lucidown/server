@@ -777,3 +777,22 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [30Jun2025 16:44:54.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has completed the challenge [The Extinguished Fire]
 [30Jun2025 16:47:09.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [The Imperfect thing]
 [30Jun2025 16:48:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Enchanter]
+[30Jun2025 17:14:49.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has completed the challenge [The Extinguished Fire]
+[30Jun2025 17:15:25.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved too quickly! -9.305768555022269,-2.124031885085877,4.515356854646484
+[30Jun2025 17:20:52.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! -9.342042233589382,0.24918707874468282,-4.068001915389175
+[30Jun2025 17:21:11.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Timed out
+[30Jun2025 17:21:11.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
+[30Jun2025 17:21:11.908] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[30Jun2025 17:21:11.917] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
+[30Jun2025 17:21:11.956] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jun2025 17:21:22.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:33243] logged in with entity id 130438 at (1453.551815053159, 66.16610926093821, 183.99184883183102)
+[30Jun2025 17:21:22.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[30Jun2025 17:21:22.903] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[30Jun2025 17:21:22.908] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[30Jun2025 17:21:22.985] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[30Jun2025 17:21:23.031] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[30Jun2025 17:21:23.031] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[30Jun2025 17:21:42.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Creative Mode]
+[30Jun2025 17:22:13.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! 0.5287006581334026,-9.632658286332699,-3.098219834527555
+[30Jun2025 17:23:12.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! 4.953875529410652,-8.535840625044557,1.9705813372036118
+[30Jun2025 17:23:54.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]

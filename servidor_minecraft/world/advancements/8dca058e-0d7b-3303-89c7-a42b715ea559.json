@@ -6995,6 +6995,7 @@
       "cataclysm:maledictus": "2025-06-27 20:37:00 +0000",
       "cataclysm:netherite_monstrosity": "2025-06-27 22:11:19 +0000",
       "cataclysm:the_harbinger": "2025-06-28 22:16:26 +0000",
+      "cataclysm:ignis": "2025-06-30 17:14:49 +0000",
       "cataclysm:ancient_remnant": "2025-06-26 23:33:51 +0000"
     },
     "done": false
@@ -8629,6 +8630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 17:12:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-06-30 15:57:32 +0000"
@@ -8659,6 +8666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 17:12:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-30 16:51:43 +0000"
@@ -8683,9 +8696,21 @@
     },
     "done": true
   },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-06-30 17:14:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-06-30 16:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 17:12:22 +0000"
     },
     "done": true
   },
@@ -8698,6 +8723,12 @@
   "celestisynth:recipes/misc/eyebomination": {
     "criteria": {
       "has_item": "2025-06-30 15:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 17:12:22 +0000"
     },
     "done": true
   },
@@ -8731,6 +8762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 17:12:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-06-30 16:51:43 +0000"
@@ -8740,6 +8777,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-06-30 16:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-30 17:12:22 +0000"
     },
     "done": true
   },
