@@ -714,3 +714,31 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [30Jun2025 16:12:36.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
 [30Jun2025 16:12:36.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
 [30Jun2025 16:12:37.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
+[30Jun2025 16:15:59.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=483, y=88, z=-1} BlockPos{x=482, y=87, z=-1}
+[30Jun2025 16:15:59.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=483, y=88, z=-1} BlockPos{x=482, y=87, z=-1}
+[30Jun2025 16:16:01.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=485, y=88, z=-1} BlockPos{x=487, y=89, z=-1}
+[30Jun2025 16:16:01.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=485, y=88, z=-1} BlockPos{x=487, y=89, z=-1}
+[30Jun2025 16:16:01.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=485, y=88, z=-1} BlockPos{x=487, y=89, z=-1}
+[30Jun2025 16:16:55.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=546, y=86, z=-1} BlockPos{x=545, y=84, z=-1}
+[30Jun2025 16:16:55.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=547, y=85, z=-1} BlockPos{x=546, y=84, z=-1}
+[30Jun2025 16:16:56.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=547, y=85, z=-1} BlockPos{x=546, y=84, z=-1}
+[30Jun2025 16:17:11.005] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jun2025 16:18:36.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved too quickly! 6.721017095305228,8.552236505756994,0.402792092027493
+[30Jun2025 16:18:37.963] [Worker-Main-38/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Jun2025 16:18:37.964] [Worker-Main-38/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[30Jun2025 16:19:50.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=895, y=80, z=-13} BlockPos{x=894, y=79, z=-13}
+[30Jun2025 16:19:50.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=895, y=80, z=-13} BlockPos{x=894, y=79, z=-13}
+[30Jun2025 16:20:09.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=946, y=80, z=-13} BlockPos{x=945, y=79, z=-13}
+[30Jun2025 16:20:09.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=946, y=80, z=-13} BlockPos{x=945, y=79, z=-13}
+[30Jun2025 16:20:09.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=946, y=80, z=-13} BlockPos{x=945, y=79, z=-13}
+[30Jun2025 16:20:09.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=946, y=80, z=-13} BlockPos{x=945, y=79, z=-13}
+[30Jun2025 16:20:16.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jun2025 16:20:22.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=984, y=79, z=-13} BlockPos{x=980, y=78, z=-13}
+[30Jun2025 16:20:23.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=984, y=79, z=-13} BlockPos{x=980, y=78, z=-13}
+[30Jun2025 16:20:23.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=984, y=79, z=-13} BlockPos{x=980, y=78, z=-13}
+[30Jun2025 16:20:28.202] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jun2025 16:20:32.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1015, y=78, z=-13} BlockPos{x=1014, y=77, z=-13}
+[30Jun2025 16:20:32.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1015, y=78, z=-13} BlockPos{x=1014, y=77, z=-13}
+[30Jun2025 16:20:33.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1018, y=78, z=-13} BlockPos{x=1017, y=77, z=-13}
+[30Jun2025 16:20:33.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1018, y=78, z=-13} BlockPos{x=1017, y=77, z=-13}
+[30Jun2025 16:20:42.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1032, y=78, z=-13} BlockPos{x=1032, y=77, z=-13}
