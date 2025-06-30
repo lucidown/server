@@ -6918,9 +6918,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-27 22:30:16 +0000",
       "minecraft:nether_wastes": "2025-06-27 22:40:11 +0000",
-      "minecraft:soul_sand_valley": "2025-06-27 22:37:17 +0000"
+      "minecraft:soul_sand_valley": "2025-06-27 22:37:17 +0000",
+      "minecraft:basalt_deltas": "2025-06-30 16:36:45 +0000",
+      "minecraft:warped_forest": "2025-06-30 16:38:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "celestisynth:recipes/combat/solar_crystal_chestplate": {
     "criteria": {
@@ -7941,6 +7943,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-30 15:53:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-06-30 16:38:29 +0000"
     },
     "done": true
   },

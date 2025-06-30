@@ -6230,9 +6230,10 @@
       "minecraft:crimson_forest": "2025-06-27 22:01:41 +0000",
       "minecraft:nether_wastes": "2025-06-27 22:26:11 +0000",
       "minecraft:soul_sand_valley": "2025-06-27 22:24:56 +0000",
-      "minecraft:warped_forest": "2025-06-27 22:35:07 +0000"
+      "minecraft:warped_forest": "2025-06-27 22:35:07 +0000",
+      "minecraft:basalt_deltas": "2025-06-30 16:36:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
@@ -7442,6 +7443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-30 16:40:35 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/warped_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-30 15:33:34 +0000"
@@ -7451,6 +7458,18 @@
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-06-30 16:10:51 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-06-30 16:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-30 16:40:35 +0000"
     },
     "done": true
   },
@@ -7484,6 +7503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-30 16:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-30 16:10:51 +0000"
@@ -7499,6 +7524,12 @@
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-30 16:40:35 +0000"
     },
     "done": true
   },
@@ -7529,6 +7560,12 @@
   "expanded_combat:recipes/combat/warped_plank_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-30 16:36:58 +0000"
     },
     "done": true
   },
@@ -7643,6 +7680,12 @@
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-06-30 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-30 16:36:58 +0000"
     },
     "done": true
   },

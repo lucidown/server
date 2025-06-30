@@ -8641,6 +8641,12 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-06-30 16:37:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-30 15:01:28 +0000"
@@ -8686,6 +8692,12 @@
   "biomeswevegone:recipes/building_blocks/white_stained_glass_from_white_sand": {
     "criteria": {
       "has_white_sand": "2025-06-30 14:57:07 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-06-30 16:38:29 +0000"
     },
     "done": true
   },
