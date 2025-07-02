@@ -2835,7 +2835,8 @@
       "bread": "2025-06-25 23:20:30 +0000",
       "golden_apple": "2025-06-26 22:46:18 +0000",
       "rotten_flesh": "2025-06-25 23:05:38 +0000",
-      "cooked_chicken": "2025-06-25 23:25:29 +0000"
+      "cooked_chicken": "2025-06-25 23:25:29 +0000",
+      "cod": "2025-07-02 20:57:04 +0000"
     },
     "done": false
   },
@@ -8922,6 +8923,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-02 20:57:56 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-07-02 19:53:17 +0000"
@@ -8943,6 +8950,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-07-02 19:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-02 20:57:56 +0000"
     },
     "done": true
   },
@@ -8976,6 +8989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-02 20:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2025-07-02 19:52:36 +0000"
@@ -8985,6 +9004,12 @@
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2025-07-02 19:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-02 20:57:56 +0000"
     },
     "done": true
   },

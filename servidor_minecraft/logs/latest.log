@@ -1020,3 +1020,17 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [02Jul2025 20:43:00.916] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
 [02Jul2025 20:45:03.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems drowned
 [02Jul2025 20:47:23.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jul2025 20:52:55.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Disconnected
+[02Jul2025 20:52:55.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
+[02Jul2025 20:52:55.257] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[02Jul2025 20:52:55.257] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
+[02Jul2025 20:53:24.802] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@771c2687[id=<null>,name=Ruben17,properties={},legacy=false] (/127.242.85.59:34187) lost connection: Disconnected
+[02Jul2025 20:53:58.454] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@488c376d[id=<null>,name=Ruben17,properties={},legacy=false] (/127.242.85.59:57219) lost connection: Timed out
+[02Jul2025 20:54:38.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:48617] logged in with entity id 135752 at (-459.4719481465387, 68.0, 21.033006319049058)
+[02Jul2025 20:54:38.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[02Jul2025 20:54:38.134] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[02Jul2025 20:54:38.136] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[02Jul2025 20:54:38.198] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[02Jul2025 20:54:38.823] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[02Jul2025 20:54:38.824] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[02Jul2025 21:00:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Fishy Business]
