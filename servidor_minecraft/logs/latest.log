@@ -545,3 +545,24 @@ Caused by: java.io.IOException: Invalid tag id: 14
 	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
 	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
 	... 45 more
+[02Jul2025 13:15:04.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has completed the challenge [Rude Awakening]
+[02Jul2025 13:21:36.284] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[02Jul2025 13:23:34.544] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jul2025 13:23:34.544] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jul2025 13:23:34.544] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jul2025 13:24:09.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Cursed Pyramid]
+[02Jul2025 13:26:08.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 lost connection: Disconnected
+[02Jul2025 13:26:08.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 left the game
+[02Jul2025 13:26:08.515] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client rotceh9889
+[02Jul2025 13:37:00.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Disconnected
+[02Jul2025 13:37:00.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
+[02Jul2025 13:37:00.906] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[02Jul2025 13:37:00.906] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
+[02Jul2025 13:37:30.903] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55a99e81[id=<null>,name=Ruben17,properties={},legacy=false] (/127.242.85.59:57725) lost connection: Disconnected
+[02Jul2025 13:37:39.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:37697] logged in with entity id 33927 at (-9987.24398666738, 66.0, 4216.9368244499565)
+[02Jul2025 13:37:39.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[02Jul2025 13:37:39.290] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[02Jul2025 13:37:39.292] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[02Jul2025 13:37:39.367] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[02Jul2025 13:37:39.941] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[02Jul2025 13:37:39.941] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
