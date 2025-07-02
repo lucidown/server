@@ -1,110 +1,110 @@
-[30Jun2025 14:16:00.582] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[30Jun2025 14:16:00.586] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[30Jun2025 14:16:01.252] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[30Jun2025 14:16:01.308] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[30Jun2025 14:16:01.769] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[30Jun2025 14:16:01.771] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[30Jun2025 14:16:01.772] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[30Jun2025 14:16:01.774] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[30Jun2025 14:16:02.001] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[30Jun2025 14:16:02.002] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/server/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.2.jar
-[30Jun2025 14:16:02.003] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[30Jun2025 14:16:05.076] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[30Jun2025 14:16:05.154] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
-[30Jun2025 14:16:05.157] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
-[30Jun2025 14:16:05.270] [main/ERROR] [mixin/]: Mixin config celestisynth.mixins.json does not specify "minVersion" property
-[30Jun2025 14:16:05.288] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[30Jun2025 14:16:05.338] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[30Jun2025 14:16:05.542] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[30Jun2025 14:16:05.556] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[30Jun2025 14:16:05.566] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[30Jun2025 14:16:07.047] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[30Jun2025 14:16:11.990] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[30Jun2025 14:16:11.990] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[30Jun2025 14:16:14.037] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[30Jun2025 14:16:14.219] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[30Jun2025 14:16:14.222] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[30Jun2025 14:16:14.287] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
-[30Jun2025 14:16:14.366] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
-[30Jun2025 14:16:14.751] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
-[30Jun2025 14:16:14.940] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
-[30Jun2025 14:16:15.056] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
-[30Jun2025 14:16:15.058] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
-[30Jun2025 14:16:15.059] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
-[30Jun2025 14:16:15.060] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
-[30Jun2025 14:16:15.065] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
-[30Jun2025 14:16:15.067] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
-[30Jun2025 14:16:15.074] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
-[30Jun2025 14:16:15.077] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
-[30Jun2025 14:16:15.099] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
-[30Jun2025 14:16:15.109] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
-[30Jun2025 14:16:15.110] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
-[30Jun2025 14:16:15.120] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
-[30Jun2025 14:16:15.149] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
-[30Jun2025 14:16:15.322] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
-[30Jun2025 14:16:15.323] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
-[30Jun2025 14:16:15.336] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[30Jun2025 14:16:15.346] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
-[30Jun2025 14:16:15.376] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
-[30Jun2025 14:16:15.397] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
-[30Jun2025 14:16:15.399] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
-[30Jun2025 14:16:15.402] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[30Jun2025 14:16:15.429] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
-[30Jun2025 14:16:15.474] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
-[30Jun2025 14:16:15.490] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
-[30Jun2025 14:16:15.491] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
-[30Jun2025 14:16:15.495] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[30Jun2025 14:16:15.501] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone villager types
-[30Jun2025 14:16:15.502] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Schedules
-[30Jun2025 14:16:15.503] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Memory Module Types
-[30Jun2025 14:16:15.518] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sensor Types
-[30Jun2025 14:16:16.052] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[30Jun2025 14:16:20.245] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from interface com.modderg.tameablebeasts.server.entity.TBRideable
-[30Jun2025 14:16:20.246] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from class com.modderg.tameablebeasts.server.entity.custom.GroundBeetleEntity
-[30Jun2025 14:16:20.647] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[30Jun2025 14:16:20.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[30Jun2025 14:16:20.698] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[30Jun2025 14:16:20.702] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[30Jun2025 14:16:20.774] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[30Jun2025 14:16:20.808] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[30Jun2025 14:16:20.809] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[30Jun2025 14:16:20.810] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[30Jun2025 14:16:20.919] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
-[30Jun2025 14:16:20.921] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
-[30Jun2025 14:16:21.022] [main/INFO] [journeymap/]: Initializing Packet Registries
-[30Jun2025 14:16:21.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[30Jun2025 14:16:21.156] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
-[30Jun2025 14:16:21.173] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[30Jun2025 14:16:21.173] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[30Jun2025 14:16:21.173] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
-[30Jun2025 14:16:21.174] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
-[30Jun2025 14:16:21.174] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
-[30Jun2025 14:16:21.223] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 4 for type OVERWORLD
-[30Jun2025 14:16:21.256] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[30Jun2025 14:16:21.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
-[30Jun2025 14:16:21.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[30Jun2025 14:16:21.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.382 Target: null
-[30Jun2025 14:16:21.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[30Jun2025 14:16:21.655] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[30Jun2025 14:16:21.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[30Jun2025 14:16:21.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
-[30Jun2025 14:16:21.681] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[30Jun2025 14:16:21.823] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.31 Target: 1.20.1-2.5.32
-[30Jun2025 14:16:21.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[30Jun2025 14:16:21.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[30Jun2025 14:16:21.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[30Jun2025 14:16:21.966] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[30Jun2025 14:16:23.605] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[30Jun2025 14:16:25.397] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/assets/.mcassetsroot' uses unexpected schema
-[30Jun2025 14:16:25.397] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/data/.mcassetsroot' uses unexpected schema
-[30Jun2025 14:16:27.536] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[30Jun2025 14:16:27.729] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag deeperdarker:dampens_vibrations as it is missing following references: samurai_dynasty:sculk_samurai_boots (from samurai_dynasty-0.0.49-1.20.1-neo.jar)
-[30Jun2025 14:16:27.731] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag eldritch_end:etyr_armor as it is missing following references: samurai_dynasty:etyrite_samurai_helmet (from samurai_dynasty-0.0.49-1.20.1-neo.jar), 
+[02Jul2025 12:41:06.893] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02Jul2025 12:41:06.899] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[02Jul2025 12:41:08.690] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Jul2025 12:41:08.752] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Jul2025 12:41:09.217] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[02Jul2025 12:41:09.219] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[02Jul2025 12:41:09.221] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[02Jul2025 12:41:09.223] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[02Jul2025 12:41:09.495] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[02Jul2025 12:41:09.497] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/server/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.2.jar
+[02Jul2025 12:41:09.497] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[02Jul2025 12:41:12.215] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Jul2025 12:41:12.282] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[02Jul2025 12:41:12.284] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[02Jul2025 12:41:12.366] [main/ERROR] [mixin/]: Mixin config celestisynth.mixins.json does not specify "minVersion" property
+[02Jul2025 12:41:12.373] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Jul2025 12:41:12.432] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jul2025 12:41:12.612] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jul2025 12:41:12.630] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jul2025 12:41:12.643] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jul2025 12:41:14.346] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02Jul2025 12:41:21.795] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[02Jul2025 12:41:21.795] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[02Jul2025 12:41:24.696] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[02Jul2025 12:41:24.937] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[02Jul2025 12:41:24.940] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[02Jul2025 12:41:25.109] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[02Jul2025 12:41:25.145] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[02Jul2025 12:41:25.735] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[02Jul2025 12:41:25.990] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[02Jul2025 12:41:26.077] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[02Jul2025 12:41:26.086] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[02Jul2025 12:41:26.087] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[02Jul2025 12:41:26.088] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[02Jul2025 12:41:26.091] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[02Jul2025 12:41:26.097] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[02Jul2025 12:41:26.105] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[02Jul2025 12:41:26.114] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[02Jul2025 12:41:26.157] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[02Jul2025 12:41:26.160] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[02Jul2025 12:41:26.163] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[02Jul2025 12:41:26.168] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[02Jul2025 12:41:26.199] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[02Jul2025 12:41:26.387] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[02Jul2025 12:41:26.388] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[02Jul2025 12:41:26.403] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[02Jul2025 12:41:26.417] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[02Jul2025 12:41:26.441] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[02Jul2025 12:41:26.471] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[02Jul2025 12:41:26.474] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[02Jul2025 12:41:26.476] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[02Jul2025 12:41:26.503] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[02Jul2025 12:41:26.544] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[02Jul2025 12:41:26.545] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[02Jul2025 12:41:26.550] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[02Jul2025 12:41:26.567] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[02Jul2025 12:41:26.569] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone villager types
+[02Jul2025 12:41:26.570] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Schedules
+[02Jul2025 12:41:26.580] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Memory Module Types
+[02Jul2025 12:41:26.581] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sensor Types
+[02Jul2025 12:41:27.330] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02Jul2025 12:41:32.975] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from interface com.modderg.tameablebeasts.server.entity.TBRideable
+[02Jul2025 12:41:32.977] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from class com.modderg.tameablebeasts.server.entity.custom.GroundBeetleEntity
+[02Jul2025 12:41:33.545] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[02Jul2025 12:41:33.583] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[02Jul2025 12:41:33.611] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[02Jul2025 12:41:33.650] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[02Jul2025 12:41:33.811] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[02Jul2025 12:41:33.835] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[02Jul2025 12:41:33.835] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[02Jul2025 12:41:33.835] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[02Jul2025 12:41:33.884] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
+[02Jul2025 12:41:33.894] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[02Jul2025 12:41:33.990] [main/INFO] [journeymap/]: Initializing Packet Registries
+[02Jul2025 12:41:34.240] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[02Jul2025 12:41:34.241] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[02Jul2025 12:41:34.241] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[02Jul2025 12:41:34.242] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[02Jul2025 12:41:34.242] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[02Jul2025 12:41:34.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[02Jul2025 12:41:34.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
+[02Jul2025 12:41:34.329] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 4 for type OVERWORLD
+[02Jul2025 12:41:34.381] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[02Jul2025 12:41:34.608] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
+[02Jul2025 12:41:34.608] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[02Jul2025 12:41:34.941] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.382 Target: null
+[02Jul2025 12:41:34.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Jul2025 12:41:35.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[02Jul2025 12:41:35.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[02Jul2025 12:41:35.204] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
+[02Jul2025 12:41:35.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[02Jul2025 12:41:35.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.31 Target: 1.20.1-2.5.33
+[02Jul2025 12:41:35.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[02Jul2025 12:41:35.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[02Jul2025 12:41:35.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[02Jul2025 12:41:35.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[02Jul2025 12:41:37.548] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Jul2025 12:41:39.562] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/assets/.mcassetsroot' uses unexpected schema
+[02Jul2025 12:41:39.562] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/data/.mcassetsroot' uses unexpected schema
+[02Jul2025 12:41:41.865] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[02Jul2025 12:41:42.095] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag deeperdarker:dampens_vibrations as it is missing following references: samurai_dynasty:sculk_samurai_boots (from samurai_dynasty-0.0.49-1.20.1-neo.jar)
+[02Jul2025 12:41:42.100] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag eldritch_end:etyr_armor as it is missing following references: samurai_dynasty:etyrite_samurai_helmet (from samurai_dynasty-0.0.49-1.20.1-neo.jar), 
 	samurai_dynasty:etyrite_samurai_chestplate (from samurai_dynasty-0.0.49-1.20.1-neo.jar), 
 	samurai_dynasty:etyrite_samurai_leggings (from samurai_dynasty-0.0.49-1.20.1-neo.jar), 
 	samurai_dynasty:etyrite_samurai_boots (from samurai_dynasty-0.0.49-1.20.1-neo.jar)
-[30Jun2025 14:16:27.733] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag samurai_dynasty:dampens_vibrations as it is missing following references: samurai_dynasty:sculk_samurai_boots (from samurai_dynasty-0.0.49-1.20.1-neo.jar)
-[30Jun2025 14:16:30.466] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:cataclysm:entities/cindaria
+[02Jul2025 12:41:42.106] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag samurai_dynasty:dampens_vibrations as it is missing following references: samurai_dynasty:sculk_samurai_boots (from samurai_dynasty-0.0.49-1.20.1-neo.jar)
+[02Jul2025 12:41:45.344] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:cataclysm:entities/cindaria
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:enchanted_count_increase'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -160,15 +160,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:enchanted_count_inc
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[30Jun2025 14:16:30.625] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_crossbow_shaped as it's serializer returned null
-[30Jun2025 14:16:30.646] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_boots as it's serializer returned null
-[30Jun2025 14:16:30.662] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_chestplate as it's serializer returned null
-[30Jun2025 14:16:30.666] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_boots as it's serializer returned null
-[30Jun2025 14:16:30.697] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_chestplate_array as it's serializer returned null
-[30Jun2025 14:16:30.700] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:steel_bow_120_smithing_singleton as it's serializer returned null
-[30Jun2025 14:16:30.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_helmet as it's serializer returned null
-[30Jun2025 14:16:30.708] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:iron_arrow_120_smithing as it's serializer returned null
-[30Jun2025 14:16:30.711] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_amethyst_samurai_helmet
+[02Jul2025 12:41:45.535] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_crossbow_shaped as it's serializer returned null
+[02Jul2025 12:41:45.567] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_boots as it's serializer returned null
+[02Jul2025 12:41:45.601] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_chestplate as it's serializer returned null
+[02Jul2025 12:41:45.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_boots as it's serializer returned null
+[02Jul2025 12:41:45.642] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_chestplate_array as it's serializer returned null
+[02Jul2025 12:41:45.646] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:steel_bow_120_smithing_singleton as it's serializer returned null
+[02Jul2025 12:41:45.647] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_helmet as it's serializer returned null
+[02Jul2025 12:41:45.663] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:iron_arrow_120_smithing as it's serializer returned null
+[02Jul2025 12:41:45.665] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_amethyst_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_amethyst_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23216!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23216!/:?]
@@ -201,27 +201,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_amethyst
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Jun2025 14:16:30.730] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_helmet as it's serializer returned null
-[30Jun2025 14:16:30.744] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_helmet_smithing as it's serializer returned null
-[30Jun2025 14:16:30.757] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:steel_arrow_variable_fletching as it's serializer returned null
-[30Jun2025 14:16:30.766] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_arrow_fletching as it's serializer returned null
-[30Jun2025 14:16:30.779] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:steel_arrow_120_smithing as it's serializer returned null
-[30Jun2025 14:16:30.780] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_boots_smithing as it's serializer returned null
-[30Jun2025 14:16:30.784] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_chestplate as it's serializer returned null
-[30Jun2025 14:16:30.786] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:gold_crossbow_120_smithing as it's serializer returned null
-[30Jun2025 14:16:30.788] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_helmet_smithing as it's serializer returned null
-[30Jun2025 14:16:30.790] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_arrow_shaped as it's serializer returned null
-[30Jun2025 14:16:30.794] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_gauntlet_shaped as it's serializer returned null
-[30Jun2025 14:16:30.798] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:diamond_arrow_120_smithing as it's serializer returned null
-[30Jun2025 14:16:30.799] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_leggings as it's serializer returned null
-[30Jun2025 14:16:30.808] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_leggings as it's serializer returned null
-[30Jun2025 14:16:30.809] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:netherite_ninja_gauntlet_shaped as it's serializer returned null
-[30Jun2025 14:16:30.813] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_leggings as it's serializer returned null
-[30Jun2025 14:16:30.815] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_boots as it's serializer returned null
-[30Jun2025 14:16:30.824] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:iron_crossbow_120_smithing as it's serializer returned null
-[30Jun2025 14:16:30.826] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_chestplate_smithing as it's serializer returned null
-[30Jun2025 14:16:30.832] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_leggings_array as it's serializer returned null
-[30Jun2025 14:16:30.834] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_netherite_samurai_helmet
+[02Jul2025 12:41:45.700] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_helmet as it's serializer returned null
+[02Jul2025 12:41:45.726] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_helmet_smithing as it's serializer returned null
+[02Jul2025 12:41:45.747] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:steel_arrow_variable_fletching as it's serializer returned null
+[02Jul2025 12:41:45.764] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_arrow_fletching as it's serializer returned null
+[02Jul2025 12:41:45.784] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:steel_arrow_120_smithing as it's serializer returned null
+[02Jul2025 12:41:45.785] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_boots_smithing as it's serializer returned null
+[02Jul2025 12:41:45.788] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_chestplate as it's serializer returned null
+[02Jul2025 12:41:45.789] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:gold_crossbow_120_smithing as it's serializer returned null
+[02Jul2025 12:41:45.792] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_helmet_smithing as it's serializer returned null
+[02Jul2025 12:41:45.794] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_arrow_shaped as it's serializer returned null
+[02Jul2025 12:41:45.798] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_gauntlet_shaped as it's serializer returned null
+[02Jul2025 12:41:45.804] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:diamond_arrow_120_smithing as it's serializer returned null
+[02Jul2025 12:41:45.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_leggings as it's serializer returned null
+[02Jul2025 12:41:45.825] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_leggings as it's serializer returned null
+[02Jul2025 12:41:45.826] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:netherite_ninja_gauntlet_shaped as it's serializer returned null
+[02Jul2025 12:41:45.837] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_leggings as it's serializer returned null
+[02Jul2025 12:41:45.841] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_boots as it's serializer returned null
+[02Jul2025 12:41:45.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:iron_crossbow_120_smithing as it's serializer returned null
+[02Jul2025 12:41:45.851] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_chestplate_smithing as it's serializer returned null
+[02Jul2025 12:41:45.858] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_leggings_array as it's serializer returned null
+[02Jul2025 12:41:45.861] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_netherite_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_netherite_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23216!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23216!/:?]
@@ -254,12 +254,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_netherit
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Jun2025 14:16:30.840] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:diamond_crossbow_120_smithing as it's serializer returned null
-[30Jun2025 14:16:30.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:diamond_bow_120_smithing_singleton as it's serializer returned null
-[30Jun2025 14:16:30.851] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_bow_120_smithing as it's serializer returned null
-[30Jun2025 14:16:30.851] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:iron_arrow_variable_fletching as it's serializer returned null
-[30Jun2025 14:16:30.852] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:amethyst_coated_steel_arrow_variable_fletching as it's serializer returned null
-[30Jun2025 14:16:30.853] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_quartz_samurai_helmet
+[02Jul2025 12:41:45.869] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:diamond_crossbow_120_smithing as it's serializer returned null
+[02Jul2025 12:41:45.881] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:diamond_bow_120_smithing_singleton as it's serializer returned null
+[02Jul2025 12:41:45.882] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_bow_120_smithing as it's serializer returned null
+[02Jul2025 12:41:45.882] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:iron_arrow_variable_fletching as it's serializer returned null
+[02Jul2025 12:41:45.883] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:amethyst_coated_steel_arrow_variable_fletching as it's serializer returned null
+[02Jul2025 12:41:45.884] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_quartz_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23216!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23216!/:?]
@@ -292,16 +292,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Jun2025 14:16:30.857] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_leggings_smithing as it's serializer returned null
-[30Jun2025 14:16:30.866] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_chestplate_mechanical_crafting as it's serializer returned null
-[30Jun2025 14:16:30.869] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_boots_mechanical_crafting as it's serializer returned null
-[30Jun2025 14:16:30.875] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_helmet as it's serializer returned null
-[30Jun2025 14:16:30.875] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:iron_bow_120_smithing_singleton as it's serializer returned null
-[30Jun2025 14:16:30.878] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_leggings_smithing as it's serializer returned null
-[30Jun2025 14:16:30.889] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_repair_kit_mechanical_crafting as it's serializer returned null
-[30Jun2025 14:16:30.889] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_boots_smithing as it's serializer returned null
-[30Jun2025 14:16:30.889] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_leggings_mechanical_crafting as it's serializer returned null
-[30Jun2025 14:16:30.890] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_straw_hat
+[02Jul2025 12:41:45.887] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_leggings_smithing as it's serializer returned null
+[02Jul2025 12:41:45.903] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_chestplate_mechanical_crafting as it's serializer returned null
+[02Jul2025 12:41:45.905] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_boots_mechanical_crafting as it's serializer returned null
+[02Jul2025 12:41:45.912] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:neptunium_samurai_helmet as it's serializer returned null
+[02Jul2025 12:41:45.912] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:iron_bow_120_smithing_singleton as it's serializer returned null
+[02Jul2025 12:41:45.916] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_leggings_smithing as it's serializer returned null
+[02Jul2025 12:41:45.929] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_repair_kit_mechanical_crafting as it's serializer returned null
+[02Jul2025 12:41:45.929] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_boots_smithing as it's serializer returned null
+[02Jul2025 12:41:45.929] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_leggings_mechanical_crafting as it's serializer returned null
+[02Jul2025 12:41:45.930] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_straw_hat
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_hat'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23216!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23216!/:?]
@@ -334,528 +334,94 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Jun2025 14:16:30.894] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:diamond_arrow_variable_fletching as it's serializer returned null
-[30Jun2025 14:16:30.898] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_helmet_mechanical_crafting as it's serializer returned null
-[30Jun2025 14:16:30.902] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:steel_crossbow_120_smithing as it's serializer returned null
-[30Jun2025 14:16:30.903] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_helmet as it's serializer returned null
-[30Jun2025 14:16:30.903] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_chestplate as it's serializer returned null
-[30Jun2025 14:16:30.907] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:gold_bow_120_smithing_singleton as it's serializer returned null
-[30Jun2025 14:16:30.911] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_array as it's serializer returned null
-[30Jun2025 14:16:30.918] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:amethyst_coated_steel_arrow_120_smithing as it's serializer returned null
-[30Jun2025 14:16:30.921] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_quiver_shaped as it's serializer returned null
-[30Jun2025 14:16:30.924] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_chestplate_smithing as it's serializer returned null
-[30Jun2025 14:16:30.929] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
-[30Jun2025 14:16:31.108] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3948 advancements
-[30Jun2025 14:16:31.145] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 16 curio slots
-[30Jun2025 14:16:31.153] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[30Jun2025 14:16:31.153] [main/INFO] [com.aqutheseal.celestisynth.api.misc.CodecJsonDataManager/]: Beginning loading of data for data loader: tiered_item_stats
-[30Jun2025 14:16:31.154] [main/INFO] [com.aqutheseal.celestisynth.api.misc.CodecJsonDataManager/]: Data loader for tiered_item_stats loaded 0 jsons
-[30Jun2025 14:16:32.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[30Jun2025 14:16:32.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[30Jun2025 14:16:32.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[30Jun2025 14:16:32.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[30Jun2025 14:16:32.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[30Jun2025 14:16:32.980] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[30Jun2025 14:16:33.057] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[30Jun2025 14:16:33.057] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[30Jun2025 14:16:33.058] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[30Jun2025 14:16:33.058] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[30Jun2025 14:16:33.074] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Jun2025 14:16:33.075] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Jun2025 14:16:33.075] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Jun2025 14:16:33.865] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[30Jun2025 14:16:33.866] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[30Jun2025 14:16:33.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[30Jun2025 14:16:37.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[30Jun2025 14:16:42.029] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:16:42.059] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:16:42.069] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:16:42.078] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:16:42.103] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:16:42.123] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:16:42.141] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:16:42.161] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:16:42.198] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:16:42.217] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:16:42.713] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:16:43.212] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[30Jun2025 14:16:43.712] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
-[30Jun2025 14:16:43.949] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6238 ms
-[30Jun2025 14:16:43.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.879s)! For help, type "help"
-[30Jun2025 14:16:43.997] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[30Jun2025 14:16:44.219] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 366631 bytes (in 37 string chunks with the size of 10000)
-[30Jun2025 14:16:44.221] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[30Jun2025 14:16:44.232] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[30Jun2025 14:16:44.233] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[30Jun2025 14:18:04.798] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[30Jun2025 14:18:04.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:45143] logged in with entity id 65 at (54.555414122414625, 109.0, -216.2115073779814)
-[30Jun2025 14:18:05.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
-[30Jun2025 14:18:05.072] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
-[30Jun2025 14:18:05.526] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
-[30Jun2025 14:18:05.619] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
-[30Jun2025 14:18:05.728] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
-[30Jun2025 14:18:06.471] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
-[30Jun2025 14:18:06.473] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
-[30Jun2025 14:20:01.647] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player EoMoTTy[e2954cab-02e7-4f0f-8179-4511f282275c]
-[30Jun2025 14:20:01.647] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player Dino_3737[b9c987ce-51cd-490b-91a3-225c82674c05]
-[30Jun2025 14:20:01.695] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Dino_3737 downloaded
-[30Jun2025 14:20:01.703] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/EoMoTTy downloaded
-[30Jun2025 14:20:01.964] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/b9c987ce-51cd-490b-91a3-225c82674c05 downloaded
-[30Jun2025 14:20:01.964] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/e2954cab-02e7-4f0f-8179-4511f282275c downloaded
-[30Jun2025 14:20:01.966] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player EoMoTTy[e2954cab-02e7-4f0f-8179-4511f282275c]
-[30Jun2025 14:20:01.967] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player Dino_3737[b9c987ce-51cd-490b-91a3-225c82674c05]
-[30Jun2025 14:20:14.233] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player HedwigOwls[b800d1e5-24a4-43fb-b146-6f449f1efb01]
-[30Jun2025 14:20:14.273] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/HedwigOwls downloaded
-[30Jun2025 14:20:14.472] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/b800d1e5-24a4-43fb-b146-6f449f1efb01 downloaded
-[30Jun2025 14:20:14.473] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player HedwigOwls[b800d1e5-24a4-43fb-b146-6f449f1efb01]
-[30Jun2025 14:21:04.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:47447] logged in with entity id 585 at (-459.41513581799944, 68.0, 21.483179779420762)
-[30Jun2025 14:21:04.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
-[30Jun2025 14:21:04.966] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
-[30Jun2025 14:21:04.969] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
-[30Jun2025 14:21:05.025] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
-[30Jun2025 14:21:05.478] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
-[30Jun2025 14:21:05.479] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
-[30Jun2025 14:24:08.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! -2.960065179860976,-4.0,8.947165067927017
-[30Jun2025 14:46:12.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! 3.118697425604296,-7.768476202412984,6.005685885728781
-[30Jun2025 14:51:35.966] [Worker-Main-43/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7779, y=6, z=7171}
-[30Jun2025 14:52:42.735] [Worker-Main-42/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mvs:houses/large_floating_island
-net.minecraft.ReportedException: Loading NBT data
-	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
-	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_214015_(SinglePoolElement.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:106) ~[mvs-4.1.5-1.20.jar%23188!/:?]
-	at com.finndog.mvs.world.structures.GenericJigsawStructure.m_214086_(GenericJigsawStructure.java:213) ~[mvs-4.1.5-1.20.jar%23188!/:?]
-	at net.minecraft.world.level.levelgen.structure.Structure.m_262864_(Structure.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.world.level.chunk.ChunkGenerator.m_254811_(ChunkGenerator.java:466) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraft.world.level.chunk.ChunkGenerator.m_255037_(ChunkGenerator.java:448) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.world.level.chunk.ChunkStatus.m_289181_(ChunkStatus.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
-	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: java.io.IOException: Invalid tag id: 16
-	at net.minecraft.nbt.TagType$1.m_197591_(TagType.java:58) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
-	... 45 more
-[30Jun2025 14:53:05.388] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 14:53:05.389] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 14:55:02.116] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
-[30Jun2025 14:55:02.117] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
-[30Jun2025 14:55:02.145] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
-[30Jun2025 14:55:02.145] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
-[30Jun2025 14:55:02.850] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/pumpkin_patch/streets
-[30Jun2025 14:58:39.100] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=356, y=-12, z=-62}
-[30Jun2025 14:58:49.413] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=356, y=-12, z=-62}
-[30Jun2025 15:09:00.471] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[30Jun2025 15:09:58.964] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=29, y=-47, z=-11}
-[30Jun2025 15:10:21.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32448, l='ServerLevel[world]', x=-4697.28, y=87.00, z=3319.63] died, message: 'Villager suffocated in a wall'
-[30Jun2025 15:10:32.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Unbreaking X]
-[30Jun2025 15:11:33.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Smells Interesting]
-[30Jun2025 15:13:41.940] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 15:13:41.941] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 15:14:42.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15746ms or 314 ticks behind
-[30Jun2025 15:14:42.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -9.925990681019357,2.1535426842200707,-0.10742659400148113
-[30Jun2025 15:14:42.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -10.17762523591955,2.209667626652518,-0.10539585735841683
-[30Jun2025 15:14:42.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -10.429083565427845,2.265160302569612,-0.10274739479700656
-[30Jun2025 15:14:42.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -10.680441277230784,2.320034698303971,-0.0995322766730169
-[30Jun2025 15:14:42.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -10.931772022880978,2.3743087184338663,-0.0958059758240779
-[30Jun2025 15:14:42.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -11.183146923100594,2.4280031823148676,-0.09162740872125141
-[30Jun2025 15:14:42.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -11.43463441434369,2.4811411316346295,-0.08705800784628082
-[30Jun2025 15:14:42.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -11.686300043118536,2.5337470166178377,-0.08216081302452949
-[30Jun2025 15:14:42.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -11.938206463417373,2.585846010478889,-0.07699959239289456
-[30Jun2025 15:14:42.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -12.190413537296536,2.6374634105642087,-0.07163801960359706
-[30Jun2025 15:14:42.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -12.442978612644765,2.6886242120355774,-0.0661389282449818
-[30Jun2025 15:14:42.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -12.695956734316496,2.739352625831046,-0.06056365873882896
-[30Jun2025 15:14:42.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -12.949401192556707,2.7896719827585343,-0.0549714872304321
-[30Jun2025 15:14:42.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -13.203363858377088,2.8396045197974473,-0.0494191391098866
-[30Jun2025 15:14:42.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -13.457895756692778,2.8891714743938763,-0.0439604129151121
-[30Jun2025 15:14:42.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -13.71304735163767,2.9383930401534997,-0.03864593994603638
-[30Jun2025 15:14:42.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -13.968869223957427,2.987288804902164,-0.033523020022585115
-[30Jun2025 15:14:42.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -14.225412418439646,3.0358780353101764,-0.028635573753490462
-[30Jun2025 15:14:42.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -14.482728724537083,3.084180069890877,-0.02402420256203186
-[30Jun2025 15:14:42.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -14.740870909677597,3.1322147828574316,-0.019726333636754134
-[30Jun2025 15:14:42.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -14.999893011769927,3.1800032814527555,-0.01577645581710385
-[30Jun2025 15:14:42.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -15.259850305647888,3.227568466138351,-0.012206421582959592
-[30Jun2025 15:14:42.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -15.520799215698844,3.2749356765752538,-0.009045811838404916
-[30Jun2025 15:14:42.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -15.782797075295548,3.3221333280978342,-0.0063223315355571685
-[30Jun2025 15:14:42.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -16.045901605193194,3.369193405689302,-0.004062253487063572
-[30Jun2025 15:14:42.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -16.310170499577453,3.4161521406524713,-0.0022908540231583174
-[30Jun2025 15:14:42.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -16.575660802552193,3.4630505933192524,-0.001032839308209077
-[30Jun2025 15:14:42.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -16.842427893654076,3.5099349303055476,-3.1275826131604845E-4
-[30Jun2025 15:14:42.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -17.11052457423466,3.5568567980720474,-1.5535887814621674E-4
-[30Jun2025 15:14:42.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -17.379999990374017,3.603873551924238,-5.858818512933794E-4
-[30Jun2025 15:14:42.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -17.65089844419026,3.65104834320141,-0.0016302760150210815
-[30Jun2025 15:14:42.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -17.923258168647862,3.6984501138977492,-0.0033153342756122584
-[30Jun2025 15:14:42.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -18.19710985411848,3.7461532746567627,-0.005668707734002965
-[30Jun2025 15:14:42.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -18.472475397657945,3.7942374185873433,-0.008718801374925533
-[30Jun2025 15:14:42.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -18.749366571620158,3.8427868097371203,-0.012494588950175967
-[30Jun2025 15:14:42.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -19.02778353235408,3.8918895673270413,-0.01702528906389489
-[30Jun2025 15:14:42.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -19.307713667980806,3.9416368876634067,-0.022339927296343376
-[30Jun2025 15:14:42.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -19.589130490754087,3.9921220775668473,-0.028466782765462995
-[30Jun2025 15:14:42.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -19.871992626783594,4.043439391864055,-0.03543273036029859
-[30Jun2025 15:14:42.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -20.15624283861507,4.095682640310457,-0.04326251388920355
-[30Jun2025 15:14:42.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -20.441807479125146,4.148943850934117,-0.05197795317235432
-[30Jun2025 15:14:42.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -20.72859617906761,4.203311834243564,-0.06159709206804109
-[30Jun2025 15:14:42.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -21.01650161324733,4.258870526500189,-0.0721333293186035
-[30Jun2025 15:14:42.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -21.305399701116585,4.315697438318111,-0.08359457027290773
-[30Jun2025 15:14:42.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -21.59515009244842,4.373862054311999,-0.09598239926162933
-[30Jun2025 15:14:42.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -21.885597036562103,4.4334243250015675,-0.10929132755609317
-[30Jun2025 15:14:42.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -22.176570377498138,4.494433078507498,-0.12350810428688419
-[30Jun2025 15:14:42.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -22.467886975167858,4.556924619220553,-0.1386111523534055
-[30Jun2025 15:14:42.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -22.759352382573525,4.620921427830169,-0.1545701376562647
-[30Jun2025 15:14:42.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -23.05076294579385,4.686431178014402,-0.17134569275731337
-[30Jun2025 15:14:42.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -23.341907910346436,4.753445757802041,-0.18888927936041
-[30Jun2025 15:14:42.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -23.632571933386316,4.821940691561153,-0.2071432317898143
-[30Jun2025 15:14:42.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -23.922537474204546,4.891874589071705,-0.22604094612415793
-[30Jun2025 15:14:42.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -24.211587632628834,4.963189205393746,-0.24550726542383927
-[30Jun2025 15:14:42.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -24.49950882135454,5.035809551060851,-0.26545897802407126
-[30Jun2025 15:14:42.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -24.786093354323384,5.109644264298041,-0.2858054471853393
-[30Jun2025 15:14:42.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -25.07114214820922,5.184586433597133,-0.3064493728597881
-[30Jun2025 15:14:42.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -25.354467318984916,5.2605147154985445,-0.3272876624159835
-[30Jun2025 15:14:42.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -25.635894431899942,5.337294589516773,-0.34821234526225453
-[30Jun2025 15:14:42.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -25.91526463401533,5.414779905521499,-0.36911155768302706
-[30Jun2025 15:14:42.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -26.192436570323025,5.492814731176907,-0.38987055502639123
-[30Jun2025 15:14:42.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -26.467287901539294,5.57123525639166,-0.4103727449082726
-[30Jun2025 15:14:42.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -26.739716617347767,5.649871959926671,-0.43050073596896254
-[30Jun2025 15:14:42.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -27.009642010326843,5.728551880599667,-0.4501373644443447
-[30Jun2025 15:14:42.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -27.2770052376286,5.807100847449348,-0.4691667115775999
-[30Jun2025 15:14:42.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -27.541769590438435,5.885345801974452,-0.48747507510324795
-[30Jun2025 15:14:42.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -27.80392059222413,5.963117232327932,-0.504951949070346
-[30Jun2025 15:14:42.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -28.063465562808688,6.040251327087006,-0.5214909643073042
-[30Jun2025 15:14:42.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -28.320432966469525,6.116592084444022,-0.5369907843887631
-[30Jun2025 15:14:42.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -28.57487171294042,6.1919935092025185,-0.5513559912596975
-[30Jun2025 15:14:42.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -28.826849876423694,6.266321279824652,-0.5644979371500085
-[30Jun2025 15:14:42.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -29.076453476574898,6.339454497644027,-0.5763355489125388
-[30Jun2025 15:14:42.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -29.32378500444429,6.411287093769317,-0.5867960998866693
-[30Jun2025 15:14:42.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -29.56896187142638,6.481729076644868,-0.5958159376932599
-[30Jun2025 15:14:42.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -29.812114606626437,6.5507073804867275,-0.6033411444068406
-[30Jun2025 15:14:42.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -30.053385071985304,6.6181665575297615,-0.609328133255076
-[30Jun2025 15:14:42.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -30.292924532940106,6.684069091825322,-0.6137441931023204
-[30Jun2025 15:14:42.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -30.530891716376573,6.7483954779206385,-0.6165679255491341
-[30Jun2025 15:14:42.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -30.767450795393415,6.811143957976441,-0.6177895803921274
-[30Jun2025 15:14:42.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -31.00276932491306,6.872329936379373,-0.617411301127504
-[30Jun2025 15:14:42.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -31.23701627480841,6.931985232743898,-0.6154472417783836
-[30Jun2025 15:14:42.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -31.470359933325653,6.990156908001481,-0.6119235595378996
-[30Jun2025 15:14:42.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -31.702965889848656,7.046905892968752,-0.6068782569454925
-[30Jun2025 15:14:42.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -31.934995154927037,7.102305483288092,-0.6003608914197684
-[30Jun2025 15:14:42.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -32.166602241486544,7.156439500759973,-0.5924321405063893
-[30Jun2025 15:14:42.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -32.397933450622986,7.209400408996814,-0.5831632072313369
-[30Jun2025 15:14:42.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -32.629125361639126,7.261287380782335,-0.5726350846234709
-[30Jun2025 15:14:42.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -32.860303273714635,7.312204037786174,-0.5609376738066203
-[30Jun2025 15:14:42.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -33.091580199113196,7.362256490494531,-0.5481687405235789
-[30Jun2025 15:14:42.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -33.32305588891768,7.411551206730195,-0.5344327685652388
-[30Jun2025 15:14:42.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -33.55481612771473,7.4601929024640015,-0.5198396929454248
-[30Jun2025 15:14:42.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -33.78693256299948,7.508282784247996,-0.504503522163759
-[30Jun2025 15:14:42.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -34.01946247211663,7.555916538246294,-0.48854090741224354
-[30Jun2025 15:14:42.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -34.25244923148057,7.603182857353616,-0.4720696358190253
-[30Jun2025 15:14:42.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -34.48592298354106,7.650162064144126,-0.4552071088073717
-[30Jun2025 15:14:42.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -34.71990147203314,7.696924791700553,-0.4380688359551641
-[30Jun2025 15:14:42.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -34.954391409563414,7.743531160809738,-0.42076696045387507
-[30Jun2025 15:14:42.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -35.189389881928946,7.790029992854542,-0.4034088584721758
-[30Jun2025 15:14:42.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -35.42488617744084,7.836458483767004,-0.38609581537639315
-[30Jun2025 15:14:42.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -35.66086366037507,7.882842023733005,-0.36892182975225296
-[30Jun2025 15:14:42.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -35.897301753418105,7.9291942554953465,-0.3519725684027435
-[30Jun2025 15:14:42.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -36.13417817027903,7.975517570406922,-0.3353244839490799
-[30Jun2025 15:14:42.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -36.37147091368888,8.021803590551471,-0.31904412605581456
-[30Jun2025 15:14:42.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -36.60916049827301,8.068034162349548,-0.3031876315317277
-[30Jun2025 15:14:42.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -36.84723187395775,8.114182338369773,-0.28780041901973163
-[30Jun2025 15:14:42.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -37.08567624130592,8.160213573943608,-0.2729170974398585
-[30Jun2025 15:14:42.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -37.32449286045494,8.206087243698803,-0.2585615723164665
-[30Jun2025 15:14:42.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -37.563690400797896,8.251758036873255,-0.24474735787680402
-[30Jun2025 15:14:42.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -37.80328826049208,8.297177685974845,-0.2314780826227434
-[30Jun2025 15:14:42.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -38.043317410353666,8.342296564325224,-0.2187481842665875
-[30Jun2025 15:14:42.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -38.28382109145332,8.387065406732845,-0.20654375986578088
-[30Jun2025 15:14:42.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -38.524855222822225,8.431437071021946,-0.194843590516939
-[30Jun2025 15:14:42.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -38.76648840263579,8.475368162306864,-0.1836202994136329
-[30Jun2025 15:14:42.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -29.33469896734141,6.42204455403936,-0.06404773948088405
-[30Jun2025 15:14:42.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -29.577785407430838,6.4649873078829785,-0.053677905880249455
-[30Jun2025 15:14:42.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -29.82174920997477,6.507397518844712,-0.04367908358290151
-[30Jun2025 15:14:42.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -30.06670457997052,6.549261851083159,-0.034012871385129984
-[30Jun2025 15:14:42.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -30.312774575781987,6.5905777001378,-0.024641834002068208
-[30Jun2025 15:14:42.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -30.56008944743553,6.631354003856586,-0.015531025319432956
-[30Jun2025 15:14:42.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -30.808785001923752,6.671612087696445,-0.0066494744050942245
-[30Jun2025 15:14:42.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -31.05900043607471,6.711385980994692,0.0020283726589696016
-[30Jun2025 15:14:42.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -31.310876440571064,6.750722910543786,0.010521335223529604
-[30Jun2025 15:14:42.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -31.56455276900124,6.789683222693668,0.0188402682351807
-[30Jun2025 15:14:42.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -31.82016593596063,6.828340285238028,0.02698699418488104
-[30Jun2025 15:14:42.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -32.07784673374408,6.8667800901532985,0.034953426483298244
-[30Jun2025 15:14:42.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -32.337717640370556,6.905100539491613,0.04272089425649028
-[30Jun2025 15:14:42.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -32.59989023235903,6.943410563427079,0.05025969141115638
-[30Jun2025 15:14:42.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -32.86446277449659,6.98182912773251,0.05752889879204304
-[30Jun2025 15:14:42.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -33.1315176420203,7.020483828781764,0.06447647844834137
-[30Jun2025 15:14:42.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -33.40111912490784,7.0595095114045705,0.07103962783730822
-[30Jun2025 15:14:42.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -33.67331108816188,7.099046442260274,0.07714544037207816
-[30Jun2025 15:14:42.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -33.94811520753774,7.139238609606849,0.08271185588637309
-[30Jun2025 15:14:42.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -34.22552939019806,7.180231822381145,0.08764888443511154
-[30Jun2025 15:14:42.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -34.50552627165598,7.222171471280944,0.09186009064251266
-[30Jun2025 15:14:42.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -34.78805240219026,7.265200492633284,0.09524430694182229
-[30Jun2025 15:14:42.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -35.07302776293909,7.309457179594887,0.09769754542139708
-[30Jun2025 15:14:42.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -35.360345787270035,7.355073049049409,0.09911506901426037
-[30Jun2025 15:14:42.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -35.64987382858317,7.402170695545365,0.09939356800441601
-[30Jun2025 15:14:42.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -35.941454097102906,7.450861713737837,0.0984333777178108
-[30Jun2025 15:14:42.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -36.234905141903255,7.501244763898171,0.09614070109364548
-[30Jun2025 15:14:42.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -36.53002386074786,7.553403835230469,0.09242976418136095
-[30Jun2025 15:14:42.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -36.826587921897044,7.60740668867011,0.08722483896690392
-[30Jun2025 15:14:42.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -37.12435849006624,7.663303423992772,0.08046210450447688
-[30Jun2025 15:14:42.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -37.423083519596275,7.721125536361654,0.07209125184090226
-[30Jun2025 15:14:42.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -37.72250122824198,7.780885172794456,0.06207684372111544
-[30Jun2025 15:14:42.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -38.022343640856434,7.842574598413506,0.050399388501318754
-[30Jun2025 15:14:42.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -38.322340393675404,7.906166120114747,0.037056072176710586
-[30Jun2025 15:14:42.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -38.622222392083586,7.9716122330425065,0.022061180361561128
-[30Jun2025 15:14:42.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -38.92172568711476,8.038846327353028,0.0054461961381093715
-[30Jun2025 15:14:42.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -39.22059502080447,8.107783587032316,-0.012740435435262043
-[30Jun2025 15:14:42.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -39.51858690748031,8.178322000297229,-0.03243380875301227
-[30Jun2025 15:14:42.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -39.81547281553503,8.250344007634595,-0.053553317105070164
-[30Jun2025 15:14:42.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -40.111041638615006,8.323718084221738,-0.0760036396468422
-[30Jun2025 15:14:42.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -40.405102004147466,8.398300777357917,-0.09967594785393885
-[30Jun2025 15:14:42.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -40.697484042915676,8.473938815078085,-0.12444924889496178
-[30Jun2025 15:15:02.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 15:15:22.045] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
-[30Jun2025 15:15:22.045] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
-[30Jun2025 15:15:22.045] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
-[30Jun2025 15:15:22.064] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
-[30Jun2025 15:15:22.779] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/pumpkin_patch/streets
-[30Jun2025 15:15:22.807] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/pumpkin_patch/streets
-[30Jun2025 15:15:23.180] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/pumpkin_patch/streets
-[30Jun2025 15:16:46.811] [Worker-Main-43/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-246, 148], pos: MutableBlockPos{x=-3936, y=-46, z=2368}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
-[30Jun2025 15:16:46.811] [Worker-Main-43/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-246, 148], pos: MutableBlockPos{x=-3936, y=-45, z=2368}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
-[30Jun2025 15:18:55.643] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 15:18:55.644] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 15:18:56.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
-[30Jun2025 15:19:23.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 15:20:48.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 15:21:47.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 15:22:23.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 15:24:19.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 15:29:09.875] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 15:29:09.877] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 15:29:32.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 15:38:49.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 15:41:02.679] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 15:41:02.680] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 15:41:21.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 15:44:03.031] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 15:44:03.031] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[30Jun2025 15:46:56.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 15:47:51.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: estrems[/127.248.192.144:41943] logged in with entity id 63405 at (-29.67955922916531, 126.0, -269.388851089201)
-[30Jun2025 15:47:51.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems joined the game
-[30Jun2025 15:47:51.816] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player estrems just logged in with id 002593b6-47c6-3516-a440-6abefab6faf4
-[30Jun2025 15:47:51.818] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
-[30Jun2025 15:47:51.870] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
-[30Jun2025 15:47:52.919] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of estrems (18)
-[30Jun2025 15:47:52.920] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
-[30Jun2025 15:48:56.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 15:52:19.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]
-[30Jun2025 15:58:06.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -9.801587478307852,1.6528366865458395,-1.950710062024882
-[30Jun2025 15:58:06.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -10.338847177870775,1.7417369581509803,-2.104977344114104
-[30Jun2025 15:58:06.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -10.872877128561981,1.830408165669681,-2.271147125958578
-[30Jun2025 15:58:06.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -11.403668193311773,1.9189028939442352,-2.4486703316001694
-[30Jun2025 15:58:06.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -11.931291928716064,2.0072868364190555,-2.6368729168848404
-[30Jun2025 15:58:06.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -12.455878960329414,2.0956366889412976,-2.8350150738806406
-[30Jun2025 15:58:06.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -12.977599928402924,2.1840376909022723,-3.04233338259246
-[30Jun2025 15:58:06.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -13.496648878442102,2.2725809481678994,-3.258069874231751
-[30Jun2025 15:58:06.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -14.013230200837711,2.3613610241273904,-3.4814917987127956
-[30Jun2025 15:58:06.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -14.527548090056257,2.4504736507105065,-3.7119041711330283
-[30Jun2025 15:58:06.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -15.039798352401249,2.5400135587053256,-3.9486569420960222
-[30Jun2025 15:58:06.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -15.55016299682461,2.6300727969401407,-4.191148848592093
-[30Jun2025 15:58:06.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -16.058806519902987,2.7207391848853035,-4.438828415104126
-[30Jun2025 15:58:06.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved too quickly! -16.565873262527816,2.8120947971335255,-4.691192933652928
-[30Jun2025 15:58:49.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 16:03:49.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
-[30Jun2025 16:11:09.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=109, z=9} BlockPos{x=222, y=108, z=9}
-[30Jun2025 16:11:09.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=109, z=9} BlockPos{x=222, y=108, z=9}
-[30Jun2025 16:11:09.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=210, y=109, z=9} BlockPos{x=222, y=108, z=9}
-[30Jun2025 16:11:25.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=248, y=108, z=9} BlockPos{x=248, y=107, z=9}
-[30Jun2025 16:11:25.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=248, y=108, z=9} BlockPos{x=248, y=107, z=9}
-[30Jun2025 16:12:13.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=286, y=103, z=16} BlockPos{x=285, y=102, z=16}
-[30Jun2025 16:12:13.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=286, y=103, z=16} BlockPos{x=285, y=102, z=16}
-[30Jun2025 16:12:36.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
-[30Jun2025 16:12:36.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
-[30Jun2025 16:12:36.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
-[30Jun2025 16:12:36.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
-[30Jun2025 16:12:36.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
-[30Jun2025 16:12:36.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
-[30Jun2025 16:12:36.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
-[30Jun2025 16:12:36.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
-[30Jun2025 16:12:36.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
-[30Jun2025 16:12:37.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=323, y=95, z=17} BlockPos{x=323, y=94, z=17}
-[30Jun2025 16:15:59.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=483, y=88, z=-1} BlockPos{x=482, y=87, z=-1}
-[30Jun2025 16:15:59.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=483, y=88, z=-1} BlockPos{x=482, y=87, z=-1}
-[30Jun2025 16:16:01.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=485, y=88, z=-1} BlockPos{x=487, y=89, z=-1}
-[30Jun2025 16:16:01.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=485, y=88, z=-1} BlockPos{x=487, y=89, z=-1}
-[30Jun2025 16:16:01.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=485, y=88, z=-1} BlockPos{x=487, y=89, z=-1}
-[30Jun2025 16:16:55.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=546, y=86, z=-1} BlockPos{x=545, y=84, z=-1}
-[30Jun2025 16:16:55.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=547, y=85, z=-1} BlockPos{x=546, y=84, z=-1}
-[30Jun2025 16:16:56.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=547, y=85, z=-1} BlockPos{x=546, y=84, z=-1}
-[30Jun2025 16:17:11.005] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:18:36.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved too quickly! 6.721017095305228,8.552236505756994,0.402792092027493
-[30Jun2025 16:18:37.963] [Worker-Main-38/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[30Jun2025 16:18:37.964] [Worker-Main-38/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[30Jun2025 16:19:50.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=895, y=80, z=-13} BlockPos{x=894, y=79, z=-13}
-[30Jun2025 16:19:50.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=895, y=80, z=-13} BlockPos{x=894, y=79, z=-13}
-[30Jun2025 16:20:09.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=946, y=80, z=-13} BlockPos{x=945, y=79, z=-13}
-[30Jun2025 16:20:09.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=946, y=80, z=-13} BlockPos{x=945, y=79, z=-13}
-[30Jun2025 16:20:09.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=946, y=80, z=-13} BlockPos{x=945, y=79, z=-13}
-[30Jun2025 16:20:09.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=946, y=80, z=-13} BlockPos{x=945, y=79, z=-13}
-[30Jun2025 16:20:16.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:20:22.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=984, y=79, z=-13} BlockPos{x=980, y=78, z=-13}
-[30Jun2025 16:20:23.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=984, y=79, z=-13} BlockPos{x=980, y=78, z=-13}
-[30Jun2025 16:20:23.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=984, y=79, z=-13} BlockPos{x=980, y=78, z=-13}
-[30Jun2025 16:20:28.202] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:20:32.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1015, y=78, z=-13} BlockPos{x=1014, y=77, z=-13}
-[30Jun2025 16:20:32.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1015, y=78, z=-13} BlockPos{x=1014, y=77, z=-13}
-[30Jun2025 16:20:33.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1018, y=78, z=-13} BlockPos{x=1017, y=77, z=-13}
-[30Jun2025 16:20:33.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1018, y=78, z=-13} BlockPos{x=1017, y=77, z=-13}
-[30Jun2025 16:20:42.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1032, y=78, z=-13} BlockPos{x=1032, y=77, z=-13}
-[30Jun2025 16:35:09.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1136, y=56, z=58} BlockPos{x=1135, y=55, z=58}
-[30Jun2025 16:35:09.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1136, y=56, z=58} BlockPos{x=1135, y=55, z=58}
-[30Jun2025 16:35:09.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1136, y=56, z=58} BlockPos{x=1135, y=55, z=58}
-[30Jun2025 16:35:09.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1136, y=56, z=58} BlockPos{x=1135, y=55, z=58}
-[30Jun2025 16:35:09.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1136, y=56, z=58} BlockPos{x=1135, y=55, z=58}
-[30Jun2025 16:35:09.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1136, y=56, z=58} BlockPos{x=1135, y=55, z=58}
-[30Jun2025 16:35:30.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1205, y=51, z=58} BlockPos{x=1213, y=50, z=58}
-[30Jun2025 16:35:30.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1205, y=51, z=58} BlockPos{x=1213, y=50, z=58}
-[30Jun2025 16:35:30.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1205, y=51, z=58} BlockPos{x=1213, y=50, z=58}
-[30Jun2025 16:35:30.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1205, y=51, z=58} BlockPos{x=1213, y=50, z=58}
-[30Jun2025 16:35:30.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1205, y=51, z=58} BlockPos{x=1213, y=50, z=58}
-[30Jun2025 16:35:31.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1219, y=49, z=58} BlockPos{x=1220, y=50, z=58}
-[30Jun2025 16:35:39.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1230, y=51, z=58} BlockPos{x=1232, y=48, z=58}
-[30Jun2025 16:36:49.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has completed the challenge [Hot Tourist Destinations]
-[30Jun2025 16:37:22.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:37:22.649] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:37:22.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:37:22.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:37:22.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:37:23.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:37:23.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:37:23.247] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:37:23.348] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:37:23.449] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:37:24.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [A Burning Arena]
-[30Jun2025 16:38:29.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [A Burning Arena]
-[30Jun2025 16:38:29.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has completed the challenge [Hot Tourist Destinations]
-[30Jun2025 16:38:29.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [The Imperfect thing]
-[30Jun2025 16:38:32.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [A Burning Arena]
-[30Jun2025 16:38:58.946] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:39:00.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:39:08.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 16:44:54.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has completed the challenge [The Extinguished Fire]
-[30Jun2025 16:47:09.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [The Imperfect thing]
-[30Jun2025 16:48:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Enchanter]
-[30Jun2025 17:14:49.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has completed the challenge [The Extinguished Fire]
-[30Jun2025 17:15:25.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved too quickly! -9.305768555022269,-2.124031885085877,4.515356854646484
-[30Jun2025 17:20:52.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! -9.342042233589382,0.24918707874468282,-4.068001915389175
-[30Jun2025 17:21:11.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Timed out
-[30Jun2025 17:21:11.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
-[30Jun2025 17:21:11.908] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
-[30Jun2025 17:21:11.917] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
-[30Jun2025 17:21:11.956] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[30Jun2025 17:21:22.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:33243] logged in with entity id 130438 at (1453.551815053159, 66.16610926093821, 183.99184883183102)
-[30Jun2025 17:21:22.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
-[30Jun2025 17:21:22.903] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
-[30Jun2025 17:21:22.908] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
-[30Jun2025 17:21:22.985] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
-[30Jun2025 17:21:23.031] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
-[30Jun2025 17:21:23.031] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
-[30Jun2025 17:21:42.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Creative Mode]
-[30Jun2025 17:22:13.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! 0.5287006581334026,-9.632658286332699,-3.098219834527555
-[30Jun2025 17:23:12.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! 4.953875529410652,-8.535840625044557,1.9705813372036118
-[30Jun2025 17:23:54.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]
-[30Jun2025 17:26:17.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has completed the challenge [The Extinguished Fire]
-[30Jun2025 17:27:28.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Creative Mode]
-[30Jun2025 17:27:43.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]
-[30Jun2025 17:41:20.896] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 17:44:07.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems lost connection: Disconnected
-[30Jun2025 17:44:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems left the game
-[30Jun2025 17:44:07.161] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
-[30Jun2025 17:44:07.161] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client estrems
-[30Jun2025 17:46:06.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: estrems[/127.248.192.144:55241] logged in with entity id 148094 at (-28.91399969445561, 126.0, -271.8224327488872)
-[30Jun2025 17:46:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems joined the game
-[30Jun2025 17:46:06.822] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player estrems just logged in with id 002593b6-47c6-3516-a440-6abefab6faf4
-[30Jun2025 17:46:06.828] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
-[30Jun2025 17:46:06.902] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
-[30Jun2025 17:46:06.926] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of estrems (18)
-[30Jun2025 17:46:06.927] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
-[30Jun2025 17:46:25.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems lost connection: Disconnected
-[30Jun2025 17:46:25.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems left the game
-[30Jun2025 17:46:25.504] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
-[30Jun2025 17:46:25.505] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client estrems
-[30Jun2025 17:47:26.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: estrems[/127.248.192.144:55069] logged in with entity id 148449 at (-32.393109077780245, 126.0, -274.17563818942426)
-[30Jun2025 17:47:26.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems joined the game
-[30Jun2025 17:47:26.889] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player estrems just logged in with id 002593b6-47c6-3516-a440-6abefab6faf4
-[30Jun2025 17:47:26.891] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
-[30Jun2025 17:47:26.940] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
-[30Jun2025 17:47:27.983] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of estrems (18)
-[30Jun2025 17:47:27.983] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
-[30Jun2025 17:52:12.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[30Jun2025 17:54:39.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! 10.837852800825068,1.1135207591778027,-0.39187906100977443
-[30Jun2025 17:55:02.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -7.789090517241277,2.805494279285199,7.953293613491297
-[30Jun2025 17:55:02.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -9.038960535862117,3.3667074692199606,9.201830033634508
-[30Jun2025 17:55:02.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -10.228871249724378,3.828864625828146,10.390004933989161
-[30Jun2025 17:55:02.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -11.36531025406191,4.19588836617794,11.52434942944501
-[30Jun2025 17:59:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Creative Mode]
-[30Jun2025 18:01:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]
-[30Jun2025 18:10:20.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=52, z=51} BlockPos{x=-84, y=49, z=49}
-[30Jun2025 18:10:20.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=52, z=51} BlockPos{x=-84, y=49, z=49}
-[30Jun2025 18:10:20.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=52, z=51} BlockPos{x=-84, y=49, z=49}
-[30Jun2025 18:10:20.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=52, z=51} BlockPos{x=-84, y=49, z=49}
-[30Jun2025 18:10:20.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=52, z=51} BlockPos{x=-84, y=49, z=49}
-[30Jun2025 18:13:10.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! 9.901387900873615,-0.8800391385729398,2.709253028928572
-[30Jun2025 18:21:44.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of rotceh9889) moved too quickly! 8.95463124575221,1.03980549423909,-5.1947902637352215
-[30Jun2025 18:22:40.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems lost connection: Disconnected
-[30Jun2025 18:22:40.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems left the game
-[30Jun2025 18:22:40.758] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
-[30Jun2025 18:22:40.759] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client estrems
-[30Jun2025 18:24:19.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 lost connection: Disconnected
-[30Jun2025 18:24:19.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 left the game
-[30Jun2025 18:24:19.651] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client rotceh9889
-[30Jun2025 18:25:16.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Disconnected
-[30Jun2025 18:25:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
-[30Jun2025 18:25:16.796] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
-[30Jun2025 18:25:16.797] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
-[30Jun2025 18:25:29.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30Jun2025 18:25:29.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30Jun2025 18:25:29.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30Jun2025 18:25:29.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[30Jun2025 18:25:30.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[30Jun2025 18:25:30.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[30Jun2025 18:25:30.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30Jun2025 18:25:30.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30Jun2025 18:25:30.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30Jun2025 18:25:30.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[30Jun2025 18:25:31.012] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Jul2025 12:41:45.936] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:diamond_arrow_variable_fletching as it's serializer returned null
+[02Jul2025 12:41:45.940] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:brass_samruai_helmet_mechanical_crafting as it's serializer returned null
+[02Jul2025 12:41:45.945] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:steel_crossbow_120_smithing as it's serializer returned null
+[02Jul2025 12:41:45.945] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_helmet as it's serializer returned null
+[02Jul2025 12:41:45.945] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_chestplate as it's serializer returned null
+[02Jul2025 12:41:45.949] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:gold_bow_120_smithing_singleton as it's serializer returned null
+[02Jul2025 12:41:45.952] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_array as it's serializer returned null
+[02Jul2025 12:41:45.963] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ec_es_plugin:amethyst_coated_steel_arrow_120_smithing as it's serializer returned null
+[02Jul2025 12:41:45.967] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe expanded_combat:netherite_quiver_shaped as it's serializer returned null
+[02Jul2025 12:41:45.972] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:sculk_samruai_chestplate_smithing as it's serializer returned null
+[02Jul2025 12:41:45.976] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
+[02Jul2025 12:41:46.171] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3948 advancements
+[02Jul2025 12:41:46.204] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 16 curio slots
+[02Jul2025 12:41:46.209] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[02Jul2025 12:41:46.210] [main/INFO] [com.aqutheseal.celestisynth.api.misc.CodecJsonDataManager/]: Beginning loading of data for data loader: tiered_item_stats
+[02Jul2025 12:41:46.210] [main/INFO] [com.aqutheseal.celestisynth.api.misc.CodecJsonDataManager/]: Data loader for tiered_item_stats loaded 0 jsons
+[02Jul2025 12:41:48.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Jul2025 12:41:48.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Jul2025 12:41:48.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Jul2025 12:41:48.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Jul2025 12:41:48.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Jul2025 12:41:48.416] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Jul2025 12:41:48.499] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Jul2025 12:41:48.500] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Jul2025 12:41:48.500] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Jul2025 12:41:48.500] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Jul2025 12:41:48.558] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Jul2025 12:41:48.560] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Jul2025 12:41:48.560] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Jul2025 12:41:49.646] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[02Jul2025 12:41:49.647] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[02Jul2025 12:41:49.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Jul2025 12:41:54.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Jul2025 12:41:59.414] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:41:59.467] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:41:59.469] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:41:59.469] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:41:59.473] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:41:59.474] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:41:59.474] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:41:59.475] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:41:59.483] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:41:59.490] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:41:59.507] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:41:59.662] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:42:00.252] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:42:00.628] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:42:01.211] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:42:01.625] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jul2025 12:42:02.126] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[02Jul2025 12:42:02.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[02Jul2025 12:42:03.126] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
+[02Jul2025 12:42:03.160] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9035 ms
+[02Jul2025 12:42:03.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.640s)! For help, type "help"
+[02Jul2025 12:42:03.232] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Jul2025 12:42:03.513] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 366631 bytes (in 37 string chunks with the size of 10000)
+[02Jul2025 12:42:03.514] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[02Jul2025 12:42:03.517] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02Jul2025 12:42:03.542] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[02Jul2025 12:43:10.858] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[02Jul2025 12:43:11.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:44249] logged in with entity id 67 at (54.99266177275567, 109.0, -218.5395797849931)
+[02Jul2025 12:43:11.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
+[02Jul2025 12:43:11.223] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
+[02Jul2025 12:43:11.770] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[02Jul2025 12:43:11.913] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[02Jul2025 12:43:12.094] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[02Jul2025 12:43:12.286] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
+[02Jul2025 12:43:12.288] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
+[02Jul2025 12:43:39.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:56635] logged in with entity id 222 at (-463.0380516643318, 68.0, 11.194474267399414)
+[02Jul2025 12:43:39.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[02Jul2025 12:43:39.590] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[02Jul2025 12:43:39.597] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[02Jul2025 12:43:40.134] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[02Jul2025 12:43:40.135] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[02Jul2025 12:43:40.350] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[02Jul2025 12:44:51.804] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player Dino_3737[b9c987ce-51cd-490b-91a3-225c82674c05]
+[02Jul2025 12:44:51.805] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player EoMoTTy[e2954cab-02e7-4f0f-8179-4511f282275c]
+[02Jul2025 12:44:51.804] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player HedwigOwls[b800d1e5-24a4-43fb-b146-6f449f1efb01]
+[02Jul2025 12:44:51.906] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/EoMoTTy downloaded
+[02Jul2025 12:44:51.967] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/HedwigOwls downloaded
+[02Jul2025 12:44:52.066] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Dino_3737 downloaded
+[02Jul2025 12:44:52.215] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/e2954cab-02e7-4f0f-8179-4511f282275c downloaded
+[02Jul2025 12:44:52.216] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player EoMoTTy[e2954cab-02e7-4f0f-8179-4511f282275c]
+[02Jul2025 12:44:52.304] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/b800d1e5-24a4-43fb-b146-6f449f1efb01 downloaded
+[02Jul2025 12:44:52.305] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player HedwigOwls[b800d1e5-24a4-43fb-b146-6f449f1efb01]
+[02Jul2025 12:44:52.382] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/b9c987ce-51cd-490b-91a3-225c82674c05 downloaded
+[02Jul2025 12:44:52.382] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player Dino_3737[b9c987ce-51cd-490b-91a3-225c82674c05]
+[02Jul2025 12:47:34.666] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jul2025 12:49:24.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jul2025 12:49:24.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jul2025 12:49:25.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
