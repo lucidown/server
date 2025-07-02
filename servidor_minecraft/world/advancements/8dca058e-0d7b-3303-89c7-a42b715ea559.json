@@ -6998,6 +6998,7 @@
       "cataclysm:maledictus": "2025-06-27 20:37:00 +0000",
       "cataclysm:netherite_monstrosity": "2025-06-27 22:11:19 +0000",
       "cataclysm:the_harbinger": "2025-06-28 22:16:26 +0000",
+      "cataclysm:the_leviathan": "2025-07-02 20:15:12 +0000",
       "cataclysm:ignis": "2025-06-30 17:14:49 +0000",
       "cataclysm:ancient_remnant": "2025-06-26 23:33:51 +0000"
     },
@@ -8948,6 +8949,12 @@
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-07-02 19:21:09 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-07-02 20:15:12 +0000"
     },
     "done": true
   },

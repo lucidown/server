@@ -2988,7 +2988,8 @@
       "minecraft:enderman": "2025-06-26 00:37:58 +0000",
       "minecraft:stray": "2025-06-28 16:22:29 +0000",
       "minecraft:vex": "2025-06-26 21:44:03 +0000",
-      "minecraft:zombie": "2025-06-25 23:08:26 +0000"
+      "minecraft:zombie": "2025-06-25 23:08:26 +0000",
+      "minecraft:drowned": "2025-07-02 19:59:48 +0000"
     },
     "done": false
   },
@@ -8095,6 +8096,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-02 18:51:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-07-02 20:01:26 +0000"
     },
     "done": true
   },
