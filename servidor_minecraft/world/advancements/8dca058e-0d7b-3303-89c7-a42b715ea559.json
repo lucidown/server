@@ -8935,6 +8935,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-07-02 21:02:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-07-02 19:52:26 +0000"
