@@ -6637,7 +6637,8 @@
       "cataclysm:maledictus": "2025-06-28 15:49:42 +0000",
       "cataclysm:netherite_monstrosity": "2025-06-28 12:33:13 +0000",
       "cataclysm:the_harbinger": "2025-06-28 22:18:17 +0000",
-      "cataclysm:ignis": "2025-06-30 16:44:54 +0000"
+      "cataclysm:ignis": "2025-06-30 16:44:54 +0000",
+      "cataclysm:ancient_remnant": "2025-07-02 18:58:33 +0000"
     },
     "done": false
   },
@@ -7958,6 +7959,18 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-02 13:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-02 18:57:09 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-07-02 18:58:33 +0000"
     },
     "done": true
   },

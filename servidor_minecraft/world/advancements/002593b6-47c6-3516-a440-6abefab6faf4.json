@@ -7385,7 +7385,8 @@
       "cataclysm:maledictus": "2025-06-28 15:42:35 +0000",
       "cataclysm:netherite_monstrosity": "2025-06-28 12:52:33 +0000",
       "cataclysm:the_harbinger": "2025-06-28 22:20:53 +0000",
-      "cataclysm:ignis": "2025-06-30 17:26:17 +0000"
+      "cataclysm:ignis": "2025-06-30 17:26:17 +0000",
+      "cataclysm:ancient_remnant": "2025-07-02 18:57:32 +0000"
     },
     "done": false
   },
@@ -8046,6 +8047,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-02 18:51:16 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-07-02 18:57:32 +0000"
     },
     "done": true
   },
