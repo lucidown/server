@@ -1005,3 +1005,5 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [02Jul2025 20:30:13.028] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
 [02Jul2025 20:30:13.116] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
 [02Jul2025 20:30:13.116] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[02Jul2025 20:36:24.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Spectator Mode]
+[02Jul2025 20:36:32.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]
