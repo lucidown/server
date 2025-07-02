@@ -1007,3 +1007,16 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [02Jul2025 20:30:13.116] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
 [02Jul2025 20:36:24.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Spectator Mode]
 [02Jul2025 20:36:32.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]
+[02Jul2025 20:42:50.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Disconnected
+[02Jul2025 20:42:50.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
+[02Jul2025 20:42:50.810] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[02Jul2025 20:42:50.810] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
+[02Jul2025 20:43:00.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:40769] logged in with entity id 128939 at (-33.06030038567202, 127.17675927506424, -268.7514409306893)
+[02Jul2025 20:43:00.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[02Jul2025 20:43:00.846] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[02Jul2025 20:43:00.848] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[02Jul2025 20:43:00.877] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[02Jul2025 20:43:00.878] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[02Jul2025 20:43:00.916] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[02Jul2025 20:45:03.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems drowned
+[02Jul2025 20:47:23.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
