@@ -8156,5 +8156,17 @@
     },
     "done": true
   },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-07-02 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-07-02 22:13:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

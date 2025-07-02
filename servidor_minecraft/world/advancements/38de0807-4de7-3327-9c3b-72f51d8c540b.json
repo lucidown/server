@@ -7999,6 +7999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-02 22:15:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2025-07-02 21:09:08 +0000"
@@ -8011,6 +8017,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-07-02 22:13:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-07-02 21:31:44 +0000"
@@ -8020,6 +8032,12 @@
   "alexsmobs:alexsmobs/tame_mantis_shrimp": {
     "criteria": {
       "tame": "2025-07-02 21:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-07-02 22:15:49 +0000"
     },
     "done": true
   },
