@@ -566,3 +566,18 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [02Jul2025 13:37:39.367] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
 [02Jul2025 13:37:39.941] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
 [02Jul2025 13:37:39.941] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[02Jul2025 13:45:41.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Disconnected
+[02Jul2025 13:45:41.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
+[02Jul2025 13:45:41.207] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[02Jul2025 13:45:41.208] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
+[02Jul2025 13:45:52.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jul2025 13:45:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jul2025 13:45:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jul2025 13:45:52.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jul2025 13:45:52.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jul2025 13:45:52.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jul2025 13:45:52.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jul2025 13:45:52.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jul2025 13:45:52.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jul2025 13:45:52.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Jul2025 13:45:53.123] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
