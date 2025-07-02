@@ -1223,3 +1223,33 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [02Jul2025 21:27:14.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved too quickly! 1.9071552289926785,-7.2519667614880206,-7.233112747511768
 [02Jul2025 21:27:14.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved too quickly! 1.2937081504167054,13.326794444261154,-4.969739908507108
 [02Jul2025 21:29:01.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Shrimp Friend]
+[02Jul2025 21:35:29.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [A Fistful of Water]
+[02Jul2025 21:39:52.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Shrimp Friend]
+[02Jul2025 21:40:04.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [A Fistful of Water]
+[02Jul2025 21:43:34.622] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player Dino_3737[b9c987ce-51cd-490b-91a3-225c82674c05]
+[02Jul2025 21:43:34.678] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Dino_3737 downloaded
+[02Jul2025 21:43:34.995] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/b9c987ce-51cd-490b-91a3-225c82674c05 downloaded
+[02Jul2025 21:43:34.997] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player Dino_3737[b9c987ce-51cd-490b-91a3-225c82674c05]
+[02Jul2025 21:43:45.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Shrimp Friend]
+[02Jul2025 21:43:49.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [A Fistful of Water]
+[02Jul2025 21:45:36.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems lost connection: Disconnected
+[02Jul2025 21:45:36.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems left the game
+[02Jul2025 21:45:36.662] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[02Jul2025 21:45:36.662] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client estrems
+[02Jul2025 21:47:09.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: estrems[/127.248.192.144:35451] logged in with entity id 192458 at (1692.4079655654136, 63.09375, -8684.910340738723)
+[02Jul2025 21:47:09.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems joined the game
+[02Jul2025 21:47:09.845] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player estrems just logged in with id 002593b6-47c6-3516-a440-6abefab6faf4
+[02Jul2025 21:47:09.847] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[02Jul2025 21:47:09.898] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
+[02Jul2025 21:47:10.594] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of estrems (18)
+[02Jul2025 21:47:10.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
+[02Jul2025 21:47:40.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciaypec8[/127.31.76.185:53549] logged in with entity id 193365 at (58.068687662126834, 115.0, -213.17379108558293)
+[02Jul2025 21:47:40.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 joined the game
+[02Jul2025 21:47:40.264] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player luciaypec8 just logged in with id afbac492-7d10-355b-8df7-5ad37f55fed5
+[02Jul2025 21:47:40.645] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[02Jul2025 21:47:40.771] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[02Jul2025 21:47:40.866] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[02Jul2025 21:47:41.065] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luciaypec8 (18)
+[02Jul2025 21:47:41.066] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luciaypec8
+[02Jul2025 21:49:15.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 was doomed to fall by The Baby Leviathan
+[02Jul2025 21:49:16.960] [Netty Epoll Server IO #5/WARN] [emotecraft/]: Player: ServerPlayer['Ruben17'/135752, l='ServerLevel[world]', x=-456.58, y=67.00, z=25.56] does not respect server-side emote tracking. Ignoring repeat

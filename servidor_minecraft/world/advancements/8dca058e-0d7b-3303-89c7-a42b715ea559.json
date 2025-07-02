@@ -9049,5 +9049,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/mantis_shrimp_bucket": {
+    "criteria": {
+      "tame": "2025-07-02 21:35:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
