@@ -9122,6 +9122,7 @@
   },
   "cataclysm:kill_all_bosses": {
     "criteria": {
+      "cataclysm:ender_guardian": "2025-07-02 22:44:11 +0000",
       "cataclysm:the_harbinger": "2025-06-28 22:28:00 +0000"
     },
     "done": false
@@ -9429,6 +9430,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold_betterstrongholds": "2025-07-02 22:13:26 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-07-02 22:44:11 +0000"
     },
     "done": true
   },

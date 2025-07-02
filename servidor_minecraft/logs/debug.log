@@ -10964,3 +10964,22 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [02Jul2025 22:44:04.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [A Ruined Citadel]
 [02Jul2025 22:44:11.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has completed the challenge [Was that a Shulker?]
 [02Jul2025 22:44:11.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[02Jul2025 22:45:31.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 22:45:31.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 22:47:34.515] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [f5b88705-afbc-48ff-aecf-c5beef4c2be8]
+[02Jul2025 22:47:38.678] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [f5b88705-afbc-48ff-aecf-c5beef4c2be8]
+[02Jul2025 22:48:30.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has completed the challenge [Was that a Shulker?]
+[02Jul2025 22:49:11.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 moved wrongly!
+[02Jul2025 22:49:29.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[02Jul2025 22:49:47.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has completed the challenge [Was that a Shulker?]
+[02Jul2025 22:49:50.129] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [8dca058e-0d7b-3303-89c7-a42b715ea559]
+[02Jul2025 22:50:01.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [002593b6-47c6-3516-a440-6abefab6faf4]
+[02Jul2025 22:50:31.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 22:50:31.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 22:50:45.204] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [79e41e3d-1815-492c-b6c3-6d19ecae393f]
+[02Jul2025 22:50:50.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[02Jul2025 22:52:08.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has completed the challenge [Was that a Shulker?]
+[02Jul2025 22:52:13.964] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: 38de0807-4de7-3327-9c3b-72f51d8c540b data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[02Jul2025 22:54:14.383] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [35e4900a-2431-4a0c-acc8-3b753d52283b]
+[02Jul2025 22:54:35.719] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [38de0807-4de7-3327-9c3b-72f51d8c540b]
+[02Jul2025 22:54:39.753] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [35e4900a-2431-4a0c-acc8-3b753d52283b]

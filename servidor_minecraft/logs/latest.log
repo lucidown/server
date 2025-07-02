@@ -1300,3 +1300,9 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [02Jul2025 22:44:04.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [A Ruined Citadel]
 [02Jul2025 22:44:11.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has completed the challenge [Was that a Shulker?]
 [02Jul2025 22:44:11.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[02Jul2025 22:48:30.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has completed the challenge [Was that a Shulker?]
+[02Jul2025 22:49:11.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 moved wrongly!
+[02Jul2025 22:49:29.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[02Jul2025 22:49:47.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has completed the challenge [Was that a Shulker?]
+[02Jul2025 22:50:50.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[02Jul2025 22:52:08.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has completed the challenge [Was that a Shulker?]
