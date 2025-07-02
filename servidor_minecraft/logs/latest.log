@@ -427,3 +427,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [02Jul2025 18:18:35.720] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
 [02Jul2025 18:18:36.456] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
 [02Jul2025 18:18:36.456] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[02Jul2025 18:19:29.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:35799] logged in with entity id 2074 at (55.6772419441291, 109.0, -214.59599702437706)
+[02Jul2025 18:19:29.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
+[02Jul2025 18:19:29.952] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
+[02Jul2025 18:19:30.349] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[02Jul2025 18:19:30.487] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
+[02Jul2025 18:19:30.487] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
+[02Jul2025 18:19:30.491] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[02Jul2025 18:19:30.716] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[02Jul2025 18:22:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Cursed Pyramid]
