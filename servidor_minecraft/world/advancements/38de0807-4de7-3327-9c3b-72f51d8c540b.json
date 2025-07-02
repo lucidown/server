@@ -7968,6 +7968,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-07-02 19:24:48 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-07-02 19:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-02 19:58:15 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_remnant": {
     "criteria": {
       "ignis": "2025-07-02 18:58:33 +0000"

@@ -439,3 +439,144 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [02Jul2025 18:57:32.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has completed the challenge [Death finds a Way]
 [02Jul2025 18:58:33.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has completed the challenge [Death finds a Way]
 [02Jul2025 19:08:38.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Who is Cutting Onions?]
+[02Jul2025 19:14:16.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -9.982320413099046,-0.39064016237770716,-2.9996993189992054
+[02Jul2025 19:14:16.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -10.743525086421982,-0.4069949196096445,-3.266151774909872
+[02Jul2025 19:14:16.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -11.504228654526969,-0.4121667441931436,-3.535288343903403
+[02Jul2025 19:14:16.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -13.19041768613954,0.6079725405615477,-4.184423577229381
+[02Jul2025 19:14:16.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -14.776022328740737,1.5310216119677307,-4.794836656957273
+[02Jul2025 19:14:16.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -16.271868272237725,2.36082524065921,-5.370866385652334
+[02Jul2025 19:14:16.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -17.68766740556657,3.1010759444245366,-5.9162330410125605
+[02Jul2025 19:14:16.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -19.032080791530234,3.7553200174168353,-6.434254366784671
+[02Jul2025 19:14:16.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -20.312832366158887,4.3269633206071205,-6.927889126927312
+[02Jul2025 19:14:16.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -21.536810335802784,4.819276842935551,-7.399775947214835
+[02Jul2025 19:14:16.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -13.4896037664073,5.598043411120244,-5.1160113209582505
+[02Jul2025 19:14:16.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -14.61779857197871,5.940997343571155,-5.551207032905268
+[02Jul2025 19:14:16.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -15.70572641105639,6.213677589966835,-5.970977908509894
+[02Jul2025 19:14:16.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -16.757744168379986,6.418866986961518,-6.376992914667994
+[02Jul2025 19:14:16.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -17.77773731387242,6.5592381709299445,-6.770740436100141
+[02Jul2025 19:14:16.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -18.769170909710738,6.637357941896369,-7.153547814338481
+[02Jul2025 19:14:16.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -19.73513509843349,6.65749722665106,-7.526598772595321
+[02Jul2025 19:14:16.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -20.678385669235922,6.68737428067368,-7.89094895526182
+[02Jul2025 19:14:16.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -21.601380234993258,6.659375487174771,-8.247539786033371
+[02Jul2025 19:14:16.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -22.506310494930858,6.643020729942833,-8.597210826585524
+[02Jul2025 19:14:16.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -23.395131006474003,6.637848905359334,-8.940710798042119
+[02Jul2025 19:15:21.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[02Jul2025 19:15:24.876] [Worker-Main-33/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mvs:houses/large_floating_island
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1740) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_214015_(SinglePoolElement.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:106) ~[mvs-4.1.5-1.20.jar%23188!/:?]
+	at com.finndog.mvs.world.structures.GenericJigsawStructure.m_214086_(GenericJigsawStructure.java:213) ~[mvs-4.1.5-1.20.jar%23188!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_262864_(Structure.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_254811_(ChunkGenerator.java:466) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_255037_(ChunkGenerator.java:448) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_289181_(ChunkStatus.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 16
+	at net.minecraft.nbt.TagType$1.m_197591_(TagType.java:58) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	... 45 more
+[02Jul2025 19:17:24.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -10.536841659494712,0.0015227410570730626,-0.398341196225374
+[02Jul2025 19:17:24.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -11.34734387764729,0.007091005198191169,-0.41904235004562906
+[02Jul2025 19:17:24.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -12.157867554256427,0.022974050751173536,-0.437495229717797
+[02Jul2025 19:17:24.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -12.96840975579562,0.04876341256490946,-0.4536235254213352
+[02Jul2025 19:17:24.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -13.778967735437618,0.016838799392189685,-0.46751897191848
+[02Jul2025 19:17:24.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -14.589538750771226,-0.003286315127866146,-0.4792633799270334
+[02Jul2025 19:17:24.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -15.400121391334778,-0.012079190921326699,-0.48908949175620364
+[02Jul2025 19:17:24.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -16.210711455697037,-0.0099885844299763,-0.4968853068885437
+[02Jul2025 19:17:24.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -17.021308140603196,0.002554518651180615,-0.5028705033744245
+[02Jul2025 19:17:24.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved too quickly! -9.885757720487163,-1.7371424670362217,-0.12641552722971028
+[02Jul2025 19:17:24.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -17.83191072971067,0.022693803405871904,-0.5072409901047195
+[02Jul2025 19:17:25.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[02Jul2025 19:17:26.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[02Jul2025 19:17:34.594] [Worker-Main-24/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-189, -84], pos: MutableBlockPos{x=-3018, y=56, z=-1344}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[02Jul2025 19:17:34.595] [Worker-Main-24/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-189, -84], pos: MutableBlockPos{x=-3018, y=57, z=-1344}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[02Jul2025 19:20:08.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -7.953677724012778,3.260956680226215,6.125310053659177
+[02Jul2025 19:20:08.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -9.014906465096374,3.915200753218528,7.055392502330733
+[02Jul2025 19:20:08.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -10.03912552773636,4.486844056408813,7.925327038375599
+[02Jul2025 19:20:08.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -11.03235117875738,4.979157578737244,8.737494663276266
+[02Jul2025 19:20:08.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -11.99925949295448,5.395282778043125,9.49508956446789
+[02Jul2025 19:20:08.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -12.944743392307828,5.738236710494036,10.198515490652198
+[02Jul2025 19:20:08.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -13.873179874003199,6.010916956889716,10.846474839612938
+[02Jul2025 19:20:08.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -14.787574389694328,6.216106353884399,11.439387684608391
+[02Jul2025 19:20:08.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -15.689955738997014,6.356477537852825,11.97991916148817
+[02Jul2025 19:20:08.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -16.581666059541476,6.434597308819249,12.473420172418173
+[02Jul2025 19:20:08.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -17.46388067646285,6.454736593573941,12.924820975488046
+[02Jul2025 19:20:08.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -18.33762702464901,6.484613647596547,13.33867681210586
+[02Jul2025 19:20:08.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -19.20382137055958,6.456614854097651,13.719050046677012
+[02Jul2025 19:20:08.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Żar-ptak (vehicle of estrems) moved too quickly! -5.313797319648984,-5.019207612544889,-7.2214846884292
+[02Jul2025 19:20:08.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -20.063280840646712,6.440260096865714,14.069563495882221
+[02Jul2025 19:20:08.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Żar-ptak (vehicle of estrems) moved too quickly! -5.555259476332594,-5.252987787498725,-7.5498282492624185
+[02Jul2025 19:20:08.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -20.916734148301202,6.435088272282229,14.393447987730724
+[02Jul2025 19:20:08.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Żar-ptak (vehicle of estrems) moved too quickly! -5.79671952211811,-5.487114272081129,-7.878174495742769
+[02Jul2025 19:20:08.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -21.76483116014424,6.440656536423347,14.693584774724059
+[02Jul2025 19:20:08.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Żar-ptak (vehicle of estrems) moved too quickly! -6.038177685405117,-5.721573352437289,-8.206523137283511
+[02Jul2025 19:20:08.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Ruben17) moved too quickly! -15.761185644597845,3.9358336055154126,9.837184416706123
+[02Jul2025 19:21:09.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Sunken City]
+[02Jul2025 19:21:09.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Sunken City]
+[02Jul2025 19:21:12.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Sunken City]
+[02Jul2025 19:22:39.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved too quickly! 0.7242828960525003,-17.0,-2.056116012702205
+[02Jul2025 19:46:54.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4751, y=59, z=-1277} BlockPos{x=-4751, y=58, z=-1277}
+[02Jul2025 19:47:34.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4749, y=56, z=-1274} BlockPos{x=-4747, y=56, z=-1273}
+[02Jul2025 19:47:34.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4749, y=56, z=-1273} BlockPos{x=-4747, y=56, z=-1273}
+[02Jul2025 19:47:34.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4748, y=56, z=-1273} BlockPos{x=-4747, y=56, z=-1273}
+[02Jul2025 19:47:34.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4748, y=56, z=-1273} BlockPos{x=-4747, y=56, z=-1273}
+[02Jul2025 19:47:34.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4748, y=56, z=-1273} BlockPos{x=-4747, y=56, z=-1273}
+[02Jul2025 19:47:34.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4748, y=56, z=-1273} BlockPos{x=-4747, y=56, z=-1273}
+[02Jul2025 19:47:34.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4748, y=56, z=-1273} BlockPos{x=-4747, y=56, z=-1273}
+[02Jul2025 19:47:34.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4748, y=56, z=-1273} BlockPos{x=-4747, y=56, z=-1273}
+[02Jul2025 19:47:34.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4748, y=56, z=-1273} BlockPos{x=-4747, y=56, z=-1273}
+[02Jul2025 19:47:34.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4748, y=56, z=-1273} BlockPos{x=-4747, y=56, z=-1273}
+[02Jul2025 19:47:34.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4748, y=56, z=-1273} BlockPos{x=-4747, y=56, z=-1273}
+[02Jul2025 19:47:46.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4745, y=56, z=-1281} BlockPos{x=-4746, y=55, z=-1283}
+[02Jul2025 19:47:46.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4745, y=56, z=-1281} BlockPos{x=-4746, y=55, z=-1283}
+[02Jul2025 19:47:46.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4745, y=56, z=-1281} BlockPos{x=-4746, y=55, z=-1283}
+[02Jul2025 19:47:46.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4745, y=56, z=-1281} BlockPos{x=-4746, y=55, z=-1283}
+[02Jul2025 19:47:46.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4745, y=56, z=-1281} BlockPos{x=-4746, y=55, z=-1283}
+[02Jul2025 19:47:46.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4745, y=56, z=-1281} BlockPos{x=-4746, y=55, z=-1283}
+[02Jul2025 19:47:46.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4745, y=56, z=-1281} BlockPos{x=-4746, y=55, z=-1283}
+[02Jul2025 19:50:03.333] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/48130, l='ServerLevel[world]', x=-4607.50, y=4.00, z=-891.50]
+[02Jul2025 19:50:05.103] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/48245, l='ServerLevel[world]', x=-4604.50, y=1.00, z=-882.50]
+[02Jul2025 19:53:17.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has completed the challenge [Free Willy]
+[02Jul2025 19:53:35.241] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/54650, l='ServerLevel[world]', x=-4605.50, y=16.00, z=-883.50]
+[02Jul2025 19:56:55.193] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/60623, l='ServerLevel[world]', x=-4792.50, y=45.00, z=-1103.50]
+[02Jul2025 19:58:12.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
