@@ -1271,3 +1271,32 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [02Jul2025 22:22:14.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [The End?]
 [02Jul2025 22:22:19.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [The End?]
 [02Jul2025 22:23:48.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Free the End]
+[02Jul2025 22:25:07.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Stealer of Souls]
+[02Jul2025 22:25:12.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Remote Getaway]
+[02Jul2025 22:27:17.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Remote Getaway]
+[02Jul2025 22:27:22.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Remote Getaway]
+[02Jul2025 22:27:26.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Remote Getaway]
+[02Jul2025 22:29:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Desolation]
+[02Jul2025 22:30:16.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Desolation]
+[02Jul2025 22:30:18.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 moved wrongly!
+[02Jul2025 22:30:36.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Ender Distancing]
+[02Jul2025 22:30:39.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Race Against The Clock]
+[02Jul2025 22:30:39.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Capsid-19]
+[02Jul2025 22:31:14.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [A Ruined Citadel]
+[02Jul2025 22:31:19.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Desolation]
+[02Jul2025 22:32:30.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Weird Fishes/Arpeggi]
+[02Jul2025 22:33:40.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [The City at the End of the Game]
+[02Jul2025 22:36:03.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [A Ruined Citadel]
+[02Jul2025 22:36:06.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 moved wrongly!
+[02Jul2025 22:36:33.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[02Jul2025 22:36:34.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Palette Swap]
+[02Jul2025 22:37:25.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has reached the goal [Sky's the Limit]
+[02Jul2025 22:38:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Desolation]
+[02Jul2025 22:39:47.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[02Jul2025 22:39:56.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Palette Swap]
+[02Jul2025 22:40:06.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [A Ruined Citadel]
+[02Jul2025 22:41:01.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Palette Swap]
+[02Jul2025 22:43:32.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[02Jul2025 22:44:04.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [A Ruined Citadel]
+[02Jul2025 22:44:11.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has completed the challenge [Was that a Shulker?]
+[02Jul2025 22:44:11.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
